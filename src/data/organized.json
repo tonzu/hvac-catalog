@@ -1,0 +1,537 @@
+{
+  "Private Brand": [
+    {
+      "category": "Air Conditioner",
+      "models": [
+        {
+          "sku": "AQ-AMST24BU1300",
+          "electrical": "208/240v 1 Phase 60Hz",
+          "title": "1.5 Ton 13.4 SEER2 R32 Air Conditioner Split System - Multi-Positional"
+        },
+        {
+          "sku": "AQ-AMST24BU1300",
+          "electrical": "208/240v 1 Phase 60Hz",
+          "title": "2 Ton 13.4 SEER2 R32 Air Conditioner Split System - Multi-Positional"
+        },
+        {
+          "sku": "AMST30BU1300-A",
+          "electrical": "208/240v 1 Phase 60Hz",
+          "title": "2.5 Ton 13.4 SEER2 R32 Air Conditioner Split System - Multi-Positional"
+        },
+        {
+          "sku": "AMST36CU1300-A",
+          "electrical": "208/240v 1 Phase 60Hz",
+          "title": "3 Ton 13.4 SEER2 R32 Air Conditioner Split System - Multi-Positional"
+        },
+        {
+          "sku": "AMST42CU1300-A",
+          "electrical": "208/240v 1 Phase 60Hz",
+          "title": "3.5 Ton 13.4 SEER2 R32 Air Conditioner Split System - Multi-Positional"
+        },
+        {
+          "sku": "AMST48CU1300-A",
+          "electrical": "208/240v 1 Phase 60Hz",
+          "title": "4 Ton 14 SEER2 R32 Air Conditioner Split System - Multi-Positional"
+        }
+      ]
+    }
+  ],
+  "ACiQ": [
+    {
+      "category": "Air Conditioner",
+      "models": [
+        {
+          "sku": "ACIQ-18-AC-UPG",
+          "electrical": "208/230v 1 Phase 60 Hz",
+          "title": "1.5 Ton 15.5 SEER2 ACiQ Air Conditioner Split System - Multi-Positional"
+        },
+        {
+          "sku": "ACIQ-24-EHPB-UPG",
+          "electrical": "208/230v 1 Phase 60 Hz",
+          "title": "1.5 Ton 13.4 SEER2 ACiQ Air Conditioner Split System - Multi-Positional"
+        },
+        {
+          "sku": "ACIQ-30-AC-UPG",
+          "electrical": "208/230v 1 Phase 60 Hz",
+          "title": "2.5 Ton 13.4 SEER2 ACiQ Air Conditioner Split System - Multi-Positional"
+        },
+        {
+          "sku": "R5A4S18AKANA / FHMA5X18L0AA",
+          "electrical": "unknown",
+          "title": "1.5 Ton 13.4 SEER2 ACiQ Air Conditioner Split System - Multi-Positional - R454B"
+        },
+        {
+          "sku": "ACiQ-24-AC-UPG",
+          "electrical": "208/230v 1 Phase 60 Hz",
+          "title": "2 Ton 15.5 SEER2 ACiQ Air Conditioner Split System - Multi-Positional"
+        },
+        {
+          "sku": "ACIQ-30-AC-UPG",
+          "electrical": "208/230v 1 Phase 60 Hz",
+          "title": "2.5 Ton 13.4 SEER2 ACiQ Air Conditioner Split System - Multi-Positional"
+        },
+        {
+          "sku": "ACIQ-18-AC-UPG",
+          "electrical": "208/230v 1 Phase 60 Hz",
+          "title": "1.5 Ton 16 SEER2 ACiQ Variable Speed Air Conditioner Split System - Multi-Positional"
+        },
+        {
+          "sku": "R5A4S18AKANA / FHMA5X24L0BA",
+          "electrical": "unknown",
+          "title": "1.5 Ton 13.4 SEER2 ACiQ Air Conditioner Split System - Multi-Positional - R454B"
+        },
+        {
+          "sku": "FTMA4X24L0BA",
+          "electrical": "208/230v 1 Phase 60 Hz",
+          "title": "1.5 Ton 13.4 SEER2 ACiQ Variable Speed Air Conditioner Split System - Multi-Positional"
+        },
+        {
+          "sku": "FJMA4X30L0BB",
+          "electrical": "208/230v 1 Phase 60 Hz",
+          "title": "2 Ton 16 SEER2 ACiQ Air Conditioner Split System - Multi-Positional"
+        },
+        {
+          "sku": "ACIQ-30-AC-UPG",
+          "electrical": "208/230v 1 Phase 60 Hz",
+          "title": "2.5 Ton 13.4 SEER2 ACiQ Air Conditioner Split System - Multi-Positional"
+        },
+        {
+          "sku": "ACIQ-30-AC-UPG",
+          "electrical": "208/230v 1 Phase 60 Hz",
+          "title": "2.5 Ton 15.5 SEER2 ACiQ Air Conditioner Split System - Multi-Positional"
+        },
+        {
+          "sku": "FJMA4X36L0BB",
+          "electrical": "208/230v 1 Phase 60 Hz",
+          "title": "2 Ton 16 SEER2 ACiQ Air Conditioner Split System - Multi-Positional"
+        },
+        {
+          "sku": "FHMA5X18L0AA",
+          "electrical": "208/230v 1 Phase 60 Hz",
+          "title": "1.5 Ton 15.5 SEER2 ACiQ R454B Air Conditioner Split System - Multi-Positional"
+        },
+        {
+          "sku": "R5A4S24AKANA / FHMA5X24L0BA",
+          "electrical": "unknown",
+          "title": "2 Ton 13.4 SEER2 ACiQ Air Conditioner Split System - Multi-Positional - R454B"
+        },
+        {
+          "sku": "ACiQ-36-AC-UPG",
+          "electrical": "208/230v 1 Phase 60 Hz",
+          "title": "3 Ton 13.4 SEER2 ACiQ Air Conditioner Split System - Multi-Positional"
+        },
+        {
+          "sku": "FJMA4X36L0BB",
+          "electrical": "208/230v 1 Phase 60 Hz",
+          "title": "2.5 Ton 15.5 SEER2 ACiQ Air Conditioner Split System - Multi-Positional"
+        },
+        {
+          "sku": "FHMA5X24L0BA",
+          "electrical": "208/230v 1 Phase 60 Hz",
+          "title": "1.5 Ton 16 SEER2 ACiQ R454B Air Conditioner Split System - Multi-Positional"
+        },
+        {
+          "sku": "ACiQ-36-AC-UPG",
+          "electrical": "208/230v 1 Phase 60 Hz",
+          "title": "3 Ton 13.4 SEER2 ACiQ Air Conditioner Split System - Multi-Positional"
+        },
+        {
+          "sku": "R5A4S30AKANA / FHMA5X30L0BA",
+          "electrical": "unknown",
+          "title": "2.5 Ton 13.4 SEER2 ACiQ Air Conditioner Split System - Multi-Positional - R454B"
+        },
+        {
+          "sku": "FJMA4X42L0CB",
+          "electrical": "208/230v 1 Phase 60 Hz",
+          "title": "2.5 Ton 15.5 SEER2 ACiQ Air Conditioner Split System - Multi-Positional"
+        },
+        {
+          "sku": "FTMA4X24L0BA",
+          "electrical": "208/230v 1 Phase 60 Hz",
+          "title": "2 Ton 16 SEER2 ACiQ Variable Speed Air Conditioner Split System - Multi-Positional"
+        },
+        {
+          "sku": "ACIQ-30-AC-UPG",
+          "electrical": "208/230v 1 Phase 60 Hz",
+          "title": "2.5 Ton 13.4 SEER2 ACiQ Variable Speed Air Conditioner Split System - Multi-Positional"
+        },
+        {
+          "sku": "FHMA5X24L0BA",
+          "electrical": "208/230v 1 Phase 60 Hz",
+          "title": "2 Ton 16 SEER2 ACiQ R454B Air Conditioner Split System - Multi-Positional"
+        },
+        {
+          "sku": "R5A4S18AKANA / FTMA5X24L0BA",
+          "electrical": "unknown",
+          "title": "1.5 Ton 13.4 SEER2 ACiQ Variable Speed Air Conditioner Split System - Multi-Positional - R454B"
+        },
+        {
+          "sku": "ACiQ-36-AC-UPG",
+          "electrical": "208/230v 1 Phase 60 Hz",
+          "title": "3 Ton 15.5 SEER2 ACiQ Air Conditioner Split System - Multi-Positional"
+        },
+        {
+          "sku": "FTMA4B36L0CA",
+          "electrical": "208/230v 1 Phase 60 Hz",
+          "title": "2 Ton 16 SEER2 ACiQ Variable Speed Air Conditioner Split System - Multi-Positional"
+        },
+        {
+          "sku": "R5A4S30AKANA / FHMA5X42L0CA",
+          "electrical": "unknown",
+          "title": "2.5 Ton 13.4 SEER2 ACiQ Air Conditioner Split System - Multi-Positional - R454B"
+        },
+        {
+          "sku": "ACiQ-36-AC-UPG",
+          "electrical": "208/230v 1 Phase 60 Hz",
+          "title": "3 Ton 16 SEER2 ACiQ Air Conditioner Split System - Multi-Positional"
+        },
+        {
+          "sku": "FHMA5X30L0BA",
+          "electrical": "208/230v 1 Phase 60 Hz",
+          "title": "2.5 Ton 15.5 SEER2 ACiQ R454B Air Conditioner Split System - Multi-Positional"
+        },
+        {
+          "sku": "R5A4S24AKANA / FTMA5X24L0BA",
+          "electrical": "unknown",
+          "title": "2 Ton 13.4 SEER2 ACiQ Variable Speed Air Conditioner Split System - Multi-Positional - R454B"
+        },
+        {
+          "sku": "FTMA4B36L0CA",
+          "electrical": "208/230v 1 Phase 60 Hz",
+          "title": "3 Ton 13.4 SEER2 ACiQ Variable Speed Air Conditioner Split System - Multi-Positional"
+        },
+        {
+          "sku": "FTMA4B36L0CA",
+          "electrical": "208/230v 1 Phase 60 Hz",
+          "title": "2.5 Ton 16 SEER2 ACiQ Variable Speed Air Conditioner Split System - Multi-Positional"
+        },
+        {
+          "sku": "R5A4S36AKANA / FHMA5X36L0BA",
+          "electrical": "unknown",
+          "title": "3 Ton 13.4 SEER2 ACiQ Air Conditioner Split System - Multi-Positional - R454B"
+        },
+        {
+          "sku": "FTMA5X24L0BA",
+          "electrical": "208/230v 1ph 60hz",
+          "title": "1.5 Ton 16 SEER2 ACiQ Variable Speed Air Conditioner Split System - Multi-Positional - R454B"
+        },
+        {
+          "sku": "FTMA4X24L0BA",
+          "electrical": "208/230v 1 Phase 60 Hz",
+          "title": "2 Ton 16 SEER2 ACiQ Variable Speed Air Conditioner Split System - Multi-Positional"
+        },
+        {
+          "sku": "R5A4S36AKANA / FHMA5X42L0CA",
+          "electrical": "unknown",
+          "title": "3 Ton 13.4 SEER2 ACiQ Air Conditioner Split System - Multi-Positional - R454B"
+        },
+        {
+          "sku": "R5A4S24AKANA / FTMA5B36L0CA",
+          "electrical": "unknown",
+          "title": "2 Ton 13.4 SEER2 ACiQ Variable Speed Air Conditioner Split System - Multi-Positional - R454B"
+        },
+        {
+          "sku": "FHMA5X42L0CA",
+          "electrical": "208/230v 1 Phase 60 Hz",
+          "title": "2.5 Ton 16 SEER2 ACiQ R454B Air Conditioner Split System - Multi-Positional"
+        },
+        {
+          "sku": "FTMA5X24L0BA",
+          "electrical": "208/230v 1ph 60hz",
+          "title": "2 Ton 16 SEER2 ACiQ Variable Speed Air Conditioner Split System - Multi-Positional - R454B"
+        },
+        {
+          "sku": "ACIQ-4X-AC-UPG",
+          "electrical": "208/230v 1 Phase 60 Hz",
+          "title": "3.5 Ton 15 SEER2 ACiQ Air Conditioner Split System - Multi-Positional"
+        },
+        {
+          "sku": "ACiQ-36-AC-UPG",
+          "electrical": "208/230v 1 Phase 60 Hz",
+          "title": "3 Ton 15.2 SEER2 ACiQ Variable Speed Air Conditioner Split System - Multi-Positional"
+        },
+        {
+          "sku": "R5A4S30AKANA / FTMA5B36L0CA",
+          "electrical": "unknown",
+          "title": "2.5 Ton 13.4 SEER2 ACiQ Variable Speed Air Conditioner Split System - Multi-Positional - R454B"
+        },
+        {
+          "sku": "FHMA5X36L0BA",
+          "electrical": "208/230v 1 Phase 60 Hz",
+          "title": "3 Ton 15.5 SEER2 ACiQ R454B Air Conditioner Split System - Multi-Positional"
+        },
+        {
+          "sku": "FTMA5B36L0CA",
+          "electrical": "208/230v 1ph 60hz",
+          "title": "2 Ton 16.5 SEER2 ACiQ Variable Speed Air Conditioner Split System - Multi-Positional - R454B"
+        },
+        {
+          "sku": "FHMA5X42L0CA",
+          "electrical": "208/230v 1 Phase 60 Hz",
+          "title": "3 Ton 16 SEER2 ACiQ R454B Air Conditioner Split System - Multi-Positional"
+        },
+        {
+          "sku": "R5A4S42AKANA / FHMA5X42L0CA",
+          "electrical": "unknown",
+          "title": "3.5 Ton 13.4 SEER2 ACiQ Air Conditioner Split System - Multi-Positional - R454B"
+        }
+      ]
+    }
+  ],
+  "Goodman": [
+    {
+      "category": "Air Conditioner",
+      "models": [
+        {
+          "sku": "AMST24BU1300",
+          "electrical": "208/240v 1 Phase 60Hz",
+          "title": "1.5 Ton 13.4 SEER2 Goodman R32 Air Conditioner Split System - Multi-Positional"
+        },
+        {
+          "sku": "AMST24BU1300",
+          "electrical": "208/240v 1 Phase 60Hz",
+          "title": "2 Ton 13.4 SEER2 Goodman R32 Air Conditioner Split System - Multi-Positional"
+        },
+        {
+          "sku": "AMST24BU1300",
+          "electrical": "208/240v 1 Phase 60Hz",
+          "title": "1.5 Ton 15 SEER2 Goodman R32 Air Conditioner Split System - Multi-Positional"
+        },
+        {
+          "sku": "AMST30BU1300",
+          "electrical": "208/240v 1 Phase 60Hz",
+          "title": "2.5 Ton 13.4 SEER2 Goodman R32 Air Conditioner Split System - Multi-Positional"
+        },
+        {
+          "sku": "AMST24BU1300",
+          "electrical": "208/240v 1 Phase 60Hz",
+          "title": "2 Ton 14.5 SEER2 Goodman R32 Air Conditioner Split System - Multi-Positional"
+        },
+        {
+          "sku": "AMST36CU1300",
+          "electrical": "208/240v 1 Phase 60Hz",
+          "title": "2.5 Ton 13.4 SEER2 Goodman R32 Air Conditioner Split System - Multi-Positional"
+        },
+        {
+          "sku": "AMST30BU1300",
+          "electrical": "208/240v 1 Phase 60Hz",
+          "title": "2.5 Ton 14.5 SEER2 Goodman R32 Air Conditioner Split System - Multi-Positional"
+        },
+        {
+          "sku": "AMST24BU1300",
+          "electrical": "208/240v 1 Phase 60Hz",
+          "title": "1.5 Ton 15.2 SEER2 Goodman R32 Air Conditioner Split System - Multi-Positional"
+        },
+        {
+          "sku": "AMST36CU1300",
+          "electrical": "208/240v 1 Phase 60Hz",
+          "title": "3 Ton 13.4 SEER2 Goodman R32 Air Conditioner Split System - Multi-Positional"
+        },
+        {
+          "sku": "AMST36CU1300",
+          "electrical": "208/240v 1 Phase 60Hz",
+          "title": "2.5 Ton 15.2 SEER2 Goodman R32 Air Conditioner Split System - Multi-Positional"
+        },
+        {
+          "sku": "AMST24BU1300",
+          "electrical": "208/240v 1 Phase 60Hz",
+          "title": "2 Ton 15.2 SEER2 Goodman R32 Air Conditioner Split System - Multi-Positional"
+        },
+        {
+          "sku": "AMST36CU1300",
+          "electrical": "208/240v 1 Phase 60Hz",
+          "title": "3 Ton 14.5 SEER2 Goodman R32 Air Conditioner Split System - Multi-Positional"
+        },
+        {
+          "sku": "AMST30BU1300",
+          "electrical": "208/240v 1 Phase 60Hz",
+          "title": "2.5 Ton 15.2 SEER2 Goodman R32 Air Condtitioner Split System - Multi-Positional"
+        },
+        {
+          "sku": "AMST42CU1300",
+          "electrical": "208/240v 1 Phase 60Hz",
+          "title": "3.5 Ton 13.4 SEER2 Goodman R32 Air Conditioner Split System - Multi-Positional"
+        },
+        {
+          "sku": "AMST36CU1300",
+          "electrical": "208/240v 1 Phase 60Hz",
+          "title": "2.5 Ton 15.2 SEER2 Goodman R32 Air Condtitioner Split System - Multi-Positional"
+        },
+        {
+          "sku": "AMST48CU1300",
+          "electrical": "208/240v 1 Phase 60Hz",
+          "title": "4 Ton 13.4 SEER2 Goodman R32 Air Conditioner Split System - Multi-Positional"
+        },
+        {
+          "sku": "AMST42CU1300",
+          "electrical": "208/240v 1 Phase 60Hz",
+          "title": "3.5 Ton 14.5 SEER2 Goodman R32 Air Conditioner Split System - Multi-Positional"
+        }
+      ]
+    }
+  ],
+  "Trane": [
+    {
+      "category": "Air Conditioner",
+      "models": [
+        {
+          "sku": "A5AHC002A1B3",
+          "electrical": "208/230v 1 Phase 60Hz",
+          "title": "1.5 Ton 13.4 SEER2 Trane Air Conditioner Split System - R454B"
+        },
+        {
+          "sku": "A5AHC002A1B3",
+          "electrical": "208/230v 1 Phase 60Hz",
+          "title": "2 Ton 13.4 SEER2 Trane Air Conditioner Split System - R454B"
+        },
+        {
+          "sku": "A5AHC002A1B3",
+          "electrical": "208/230v 1 Phase 60Hz",
+          "title": "1.5 Ton 14.3 SEER2 Trane Air Conditioner Split System - R454B"
+        },
+        {
+          "sku": "A5AHC003A1B3",
+          "electrical": "208/230v 1 Phase 60Hz",
+          "title": "2.5 Ton 13.4 SEER2 Trane Air Conditioner Split System - R454B"
+        },
+        {
+          "sku": "A5AHC004A1D3",
+          "electrical": "208/230v 1 Phase 60Hz",
+          "title": "2.5 Ton 13.4 SEER2 Trane Air Conditioner Split System - R454B"
+        },
+        {
+          "sku": "A5AHC002A1B3",
+          "electrical": "208/230v 1 Phase 60Hz",
+          "title": "2 Ton 14.3 SEER2 Trane Air Conditioner Split System - R454B"
+        },
+        {
+          "sku": "A5AHC003A1B3",
+          "electrical": "208/230v 1 Phase 60Hz",
+          "title": "3 Ton 13.4 SEER2 Trane Air Conditioner Split System - R454B"
+        },
+        {
+          "sku": "A5AHC003A1B3",
+          "electrical": "208/230v 1 Phase 60Hz",
+          "title": "2.5 Ton 14.3 SEER2 Trane Air Conditioner Split System - R454B"
+        },
+        {
+          "sku": "A5AHC004A1D3",
+          "electrical": "208/230v 1 Phase 60Hz",
+          "title": "3 Ton 13.4 SEER2 Trane Air Conditioner Split System - R454B"
+        },
+        {
+          "sku": "A5AHC004A1D3",
+          "electrical": "208/230v 1 Phase 60Hz",
+          "title": "2.5 Ton 14.3 SEER2 Trane Air Conditioner Split System - R454B"
+        },
+        {
+          "sku": "A5AHV002A1B3",
+          "electrical": "208/230v 1 Phase 60Hz",
+          "title": "1.5 Ton 13.4 SEER2 Variable Speed Trane Air Conditioner Split System - R454B"
+        },
+        {
+          "sku": "A5AHC003A1B3",
+          "electrical": "208/230v 1 Phase 60Hz",
+          "title": "3 Ton 14.3 SEER2 Trane Air Conditioner Split System - R454B"
+        },
+        {
+          "sku": "A5AHV002A1B3",
+          "electrical": "208/230v 1 Phase 60Hz",
+          "title": "2 Ton 13.4 SEER2 Variable Speed Trane Air Conditioner Split System - R454B"
+        },
+        {
+          "sku": "A5AHC004A1D3",
+          "electrical": "208/230v 1 Phase 60Hz",
+          "title": "3 Ton 14.3 SEER2 Trane Air Conditioner Split System - R454B"
+        },
+        {
+          "sku": "A5AHC004A1D3",
+          "electrical": "208/230v 1 Phase 60Hz",
+          "title": "3.5 Ton 13.4 SEER2 Trane Air Conditioner Split System - R454B"
+        },
+        {
+          "sku": "A5AHV002A1B3",
+          "electrical": "208/230v 1 Phase 60Hz",
+          "title": "2.5 Ton 13.4 SEER2 Variable Speed Trane Air Conditioner Split System - R454B"
+        },
+        {
+          "sku": "A5AHV002A1B3",
+          "electrical": "208/230v 1 Phase 60Hz",
+          "title": "1.5 Ton 14.3 SEER2 Variable Speed Trane Air Conditioner Split System - R454B"
+        },
+        {
+          "sku": "A5AHV004A1D3",
+          "electrical": "208/230v 1 Phase 60Hz",
+          "title": "2 Ton 13.4 SEER2 Variable Speed Trane Air Conditioner Split System - R454B"
+        },
+        {
+          "sku": "A5AHV004A1D3",
+          "electrical": "208/230v 1 Phase 60Hz",
+          "title": "2.5 Ton 13.4 SEER2 Variable Speed Trane Air Conditioner Split System - R454B"
+        },
+        {
+          "sku": "A5AHV002A1B3",
+          "electrical": "208/230v 1 Phase 60Hz",
+          "title": "2 Ton 14.3 SEER2 Variable Speed Trane Air Conditioner Split System - R454B"
+        }
+      ]
+    }
+  ],
+  "Online Supply": [
+    {
+      "category": "Air Conditioner",
+      "models": [
+        {
+          "sku": "87762 / EL1838-3",
+          "electrical": "208 / 230 / 240 Volts / 1 Phase",
+          "title": "ACiQ 1 Ton 21 SEER2 High Efficiency Central Heat Pump System | Inverter - R454B"
+        },
+        {
+          "sku": "87762 / EL1838-3",
+          "electrical": "208 / 230 / 240 Volts / 1 Phase",
+          "title": "ACiQ 1.5 Ton 18.8 SEER2 High Efficiency Central Heat Pump System | Inverter - R454B"
+        },
+        {
+          "sku": "87762 / EL1838-3",
+          "electrical": "208 / 230 / 240 Volts / 1 Phase",
+          "title": "ACiQ 1.5 Ton 19 SEER2 High Efficiency Central Heat Pump System | Inverter | Extreme Series - R454B"
+        },
+        {
+          "sku": "87762 / EL1838-3",
+          "electrical": "208 / 230 / 240 Volts / 1 Phase",
+          "title": "ACiQ 2 Ton 18.1 SEER2 High Efficiency Central Heat Pump System | Inverter - R454B"
+        },
+        {
+          "sku": "87762 / EL1838-3",
+          "electrical": "208 / 230 / 240 Volts / 1 Phase",
+          "title": "ACiQ 2 Ton 18.3 SEER2 High Efficiency Central Heat Pump System | Inverter | Extreme Series - R454B"
+        },
+        {
+          "sku": "87762 / EL1838-3",
+          "electrical": "208 / 230 / 240 Volts / 1 Phase",
+          "title": "ACiQ 1.5 Ton 19 SEER2 High Efficiency Central Heat Pump System | Inverter | Extreme+ Series - R454B"
+        },
+        {
+          "sku": "87762 / EL1838-3",
+          "electrical": "208 / 230 / 240 Volts / 1 Phase",
+          "title": "ACiQ 2 Ton 18.6 SEER2 High Efficiency Central Heat Pump System | Inverter | Extreme+ Series - R454B"
+        },
+        {
+          "sku": "87762 / EL1838-3",
+          "electrical": "208 / 230 / 240 Volts / 1 Phase",
+          "title": "ACiQ\u00a02.5 Ton 17.3 SEER2 High Efficiency Central Heat Pump System |\u00a0Inverter"
+        },
+        {
+          "sku": "87762 / EL1838-3",
+          "electrical": "208 / 230 / 240 Volts / 1 Phase",
+          "title": "ACiQ 2.5 Ton 17 SEER2 High Efficiency Central Heat Pump System | Inverter - R454B"
+        },
+        {
+          "sku": "87762 / EL1838-3",
+          "electrical": "208 / 230 / 240 Volts / 1 Phase",
+          "title": "ACiQ 2.5 Ton 16.8 SEER2 High Efficiency Central Heat Pump System | Inverter | Extreme Series - R454B"
+        }
+      ]
+    }
+  ]
+}
