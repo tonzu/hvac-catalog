@@ -68,6 +68,48 @@ def scrape_category_urls(driver, base_url, category_name):
     return product_urls
 
 
+def extract_main_product_image(soup):
+    """Extract the main product image URL from the product page"""
+    # Target the main image specifically based on your HTML structure
+    main_image = soup.select_one(".main-image-wrapper .main-image")
+    
+    if main_image:
+        src = main_image.get('src')
+        if src:
+            # Convert relative URLs to absolute URLs
+            if src.startswith('//'):
+                src = 'https:' + src
+            elif src.startswith('/'):
+                src = 'https://hvacdirect.com' + src
+            
+            # Filter out placeholder/loading images
+            if ('placeholder' not in src.lower() and 
+                'loading' not in src.lower() and
+                'data:image' not in src.lower()):
+                return src
+    
+    # Fallback: try other common main image selectors
+    fallback_selectors = [
+        ".fotorama__img",
+        ".product.media img",
+        ".gallery-image img",
+        ".product-image-main img"
+    ]
+    
+    for selector in fallback_selectors:
+        img = soup.select_one(selector)
+        if img:
+            src = img.get('src') or img.get('data-src')
+            if src:
+                if src.startswith('//'):
+                    src = 'https:' + src
+                elif src.startswith('/'):
+                    src = 'https://hvacdirect.com' + src
+                return src
+    
+    return None
+
+
 def scrape_product_details(driver, url):
     """Scrape details from a single product page"""
     print(f"Processing {url}")
@@ -101,9 +143,14 @@ def scrape_product_details(driver, url):
     title_element = soup.find("span", class_="base")
     title = title_element.text.strip() if title_element else "unknown"
     
+    # Extract main product image
+    main_image = extract_main_product_image(soup)
+    
     return {
         "specs": specs,
-        "title": title
+        "title": title,
+        "image": main_image,  # Single main image instead of array
+        "url": url  # Also save the product URL for reference
     }
 
 
@@ -114,12 +161,16 @@ def process_product_data(product_data, category_name, data_by_brand):
     
     specs = product_data["specs"]
     title = product_data["title"]
+    main_image = product_data.get("image")  # Single image instead of array
+    product_url = product_data.get("url", "")
     
     # Build the model data
     model = {
         "sku": specs.get("sku", "unknown"),
         "electrical": specs.get("electrical", "unknown"),
-        "title": title
+        "title": title,
+        "image": main_image,  # Single main image
+        "product_url": product_url
     }
     
     # Extract brand
@@ -147,15 +198,15 @@ def process_product_data(product_data, category_name, data_by_brand):
 def main():
     # Define categories to scrape
     categories = {
-        "Air Conditioning Systems": "https://hvacdirect.com/air-conditioner-condensers.html",
+        "Air Conditioning Condensers": "https://hvacdirect.com/air-conditioner-condensers.html",
         "Heat Pumps": "https://hvacdirect.com/heat-pump-condensers-ac.html",
         "Furnaces": "https://hvacdirect.com/furnaces.html",
         "Water Heaters and Boilers": "https://hvacdirect.com/water-pools-plumbing/water-heaters-boilers.html",
-        "Air Handlers": "https://hvacdirect.com/heating/air-handlers.html",
+        "Air Handlers": "https://hvacdirect.com/air-handlers.html",
         # Add more categories as needed
     }
     
-    file_path = "../src/data/goodman.json"
+    file_path = "../src/data/organized.json"
     
     # Load existing data
     data_by_brand = load_existing_data(file_path)

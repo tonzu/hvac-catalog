@@ -1,0 +1,2418 @@
+{
+  "ACiQ": [
+    {
+      "category": "Air Conditioning Systems",
+      "models": [
+        {
+          "sku": "ACIQ-18-AC",
+          "electrical": "208/230V 1 Phase 60 Hz",
+          "title": "ACiQ 1.5 Ton 16 SEER High Efficiency Central Air Conditioner Condenser - R410A Inverter"
+        },
+        {
+          "sku": "ACiQ-24-AC",
+          "electrical": "208/230V 1 Phase 60 Hz",
+          "title": "ACiQ 2 Ton 16.5 SEER High Efficiency Central Air Conditioner Condenser - R410A Inverter"
+        },
+        {
+          "sku": "R4A5S18AKAWA-AC00779",
+          "electrical": "208 / 230 V. 1 Phase 60 Hz",
+          "title": "ACiQ 1.5 Ton 14.3 SEER2 Central Air Conditioner Condenser - R410A Single Stage - Scratch & Dent - Minimal Damage"
+        },
+        {
+          "sku": "ACIQ-30-AC",
+          "electrical": "208/230V 1 Phase 60 Hz",
+          "title": "ACiQ 2.5 Ton 15.2 SEER High Efficiency Central Air Conditioner Condenser - R410A Inverter"
+        },
+        {
+          "sku": "R4A5S18AKAWA",
+          "electrical": "208 / 230 V. 1 Phase 60 Hz",
+          "title": "ACiQ 1.5 Ton 14.3 SEER2 Central Air Conditioner Condenser - R410A Single Stage"
+        },
+        {
+          "sku": "R4A4S18AKANA",
+          "electrical": "208/230v 1 Phase 60 Hz",
+          "title": "ACiQ 1.5 Ton 13.4 SEER2 Central Air Conditioner Condenser - R410A Single Stage"
+        },
+        {
+          "sku": "ACiQ-36-AC",
+          "electrical": "208/230V 1 Phase 60 Hz",
+          "title": "ACiQ 3 Ton 15.3 SEER High Efficiency Central Air Conditioner Condenser - R410A Inverter"
+        },
+        {
+          "sku": "R4A4S30AKANA",
+          "electrical": "208/230v 1 Phase 60 Hz",
+          "title": "ACiQ 2.5 Ton 13.4 SEER2 Central Air Conditioner Condenser - R410A Single Stage"
+        },
+        {
+          "sku": "R5A4S18AKANA",
+          "electrical": "208/230v 1 Phase 60 Hz",
+          "title": "1.5 Ton 13.4 SEER2 ACiQ Air Conditioner Condenser - R454B"
+        },
+        {
+          "sku": "R5A4S24AKANA",
+          "electrical": "208/230v 1 Phase 60 Hz",
+          "title": "2 Ton 13.4 SEER2 ACiQ Air Conditioner Condenser - R454B"
+        },
+        {
+          "sku": "R4A5S24AKAWA",
+          "electrical": "208 / 230 V. 1 Phase 60 Hz",
+          "title": "ACiQ 2 Ton 14.3 SEER2 Central Air Conditioner Condenser - R410A Single Stage"
+        },
+        {
+          "sku": "R4A4S36AKANA",
+          "electrical": "208/230v 1 Phase 60 Hz",
+          "title": "ACiQ 3 Ton 13.4 SEER2 Central Air Conditioner Condenser - R410A Single Stage"
+        },
+        {
+          "sku": "R5A4S30AKANA",
+          "electrical": "208/230v 1 Phase 60 Hz",
+          "title": "2.5 Ton 13.4 SEER2 ACiQ Air Conditioner Condenser - R454B"
+        },
+        {
+          "sku": "R5A5S18AKAWA",
+          "electrical": "208 / 230 V. 1 Phase 60 Hz",
+          "title": "1.5 Ton 14.3 SEER2 ACiQ Air Conditioner Condenser - R454B"
+        },
+        {
+          "sku": "R4A5S30AKAWA",
+          "electrical": "208 / 230 V. 1 Phase 60 Hz",
+          "title": "ACiQ 2.5 Ton 14.3 SEER2 Central Air Conditioner Condenser - R410A Single Stage"
+        },
+        {
+          "sku": "R5A5S24AKAWA",
+          "electrical": "208 / 230 V. 1 Phase 60 Hz",
+          "title": "2 Ton 14.3 SEER2 ACiQ Air Conditioner Condenser - R454B"
+        },
+        {
+          "sku": "ACIQ-48-AC",
+          "electrical": "208/230V 1 Phase 60 Hz",
+          "title": "ACiQ 4 Ton 15.5 SEER High Efficiency Central Air Conditioner Condenser - R410A Inverter\u200b"
+        },
+        {
+          "sku": "R5A4S36AKANA",
+          "electrical": "208/230v 1 Phase 60 Hz",
+          "title": "3 Ton 13.4 SEER2 ACiQ Air Conditioner Condenser - R454B"
+        },
+        {
+          "sku": "R4A5S36AKAWA",
+          "electrical": "208 / 230 V. 1 Phase 60 Hz",
+          "title": "ACiQ 3 Ton 14.3 SEER2 Central Air Conditioner Condenser - R410A Single Stage"
+        },
+        {
+          "sku": "R5A5S30AKAWA",
+          "electrical": "208 / 230 V. 1 Phase 60 Hz",
+          "title": "2.5 Ton 14.3 SEER2 ACiQ Air Conditioner Condenser - R454B"
+        },
+        {
+          "sku": "N4A7T24AKAWA",
+          "electrical": "208/230v 1 Phase 60 Hz",
+          "title": "ACiQ 2 Ton 17 SEER2 Central Air Conditioner Condenser - R410A Two Stage"
+        },
+        {
+          "sku": "R5A5S36AKAWA",
+          "electrical": "208 / 230 V. 1 Phase 60 Hz",
+          "title": "3 Ton 14.3 SEER2 ACiQ Air Conditioner Condenser - R454B"
+        },
+        {
+          "sku": "R5A4S42AKANA",
+          "electrical": "208/230v 1 Phase 60 Hz",
+          "title": "3.5 Ton 13.4 SEER2 ACiQ Air Conditioner Condenser - R454B"
+        },
+        {
+          "sku": "N4A5S42AKAWA",
+          "electrical": "208 / 230 V. 1 Phase 60 Hz",
+          "title": "ACiQ 3.5 Ton 13.8 SEER2 Central Air Conditioner Condenser - R410A Single Stage"
+        },
+        {
+          "sku": "NH4A430AKA",
+          "electrical": "208/230v 1 Phase 60 Hz",
+          "title": "ACiQ 2.5 Ton 14 SEER Horizontal Discharge Central Air Conditioner Condenser - R410A Single Stage"
+        },
+        {
+          "sku": "R4A5S60AKAWA",
+          "electrical": "208 / 230 V. 1 Phase 60 Hz",
+          "title": "ACiQ 5 Ton 13.8 SEER2 Central Air Conditioner Condenser - R410A Single Stage"
+        },
+        {
+          "sku": "R5A4S48AKANA",
+          "electrical": "208/230v 1 Phase 60 Hz",
+          "title": "4 Ton 13.4 SEER2 ACiQ Air Conditioner Condenser - R454B"
+        },
+        {
+          "sku": "R4A4S42AKANA",
+          "electrical": "208/230v 1 Phase 60 Hz",
+          "title": "ACiQ 3.5 Ton 13.4 SEER2 Central Air Conditioner Condenser - R410A Single Stage"
+        },
+        {
+          "sku": "R5A5S42AKAWA",
+          "electrical": "208 / 230 V. 1 Phase 60 Hz",
+          "title": "3.5 Ton 14.3 SEER2 ACiQ Air Conditioner Condenser - R454B"
+        },
+        {
+          "sku": "R4A4S48AKANA",
+          "electrical": "208/230v 1 Phase 60 Hz",
+          "title": "ACiQ 4 Ton 13.4 SEER2 Central Air Conditioner Condenser - R410A Single Stage"
+        },
+        {
+          "sku": "R5A5S48AKAWA",
+          "electrical": "208 / 230 V. 1 Phase 60 Hz",
+          "title": "4 Ton 13.8 SEER2 ACiQ Air Conditioner Condenser - R454B"
+        },
+        {
+          "sku": "R5A4S60AKANA",
+          "electrical": "208/230v 1 Phase 60 Hz",
+          "title": "5 Ton 13.4 SEER2 ACiQ Air Conditioner Condenser - R454B"
+        },
+        {
+          "sku": "R4A4S60AKANA",
+          "electrical": "208/230v 1 Phase 60 Hz",
+          "title": "ACiQ 5 Ton 13.4 SEER2 Central Air Conditioner Condenser - R410A Single Stage"
+        },
+        {
+          "sku": "NH4A460AKA",
+          "electrical": "208/230v 1 Phase 60 Hz",
+          "title": "ACiQ 5 Ton 14 SEER Horizontal Discharge Central Air Conditioner Condenser - R410A Single Stage"
+        },
+        {
+          "sku": "R5A5S60AKAWA",
+          "electrical": "208 / 230 V. 1 Phase 60 Hz",
+          "title": "5 Ton 13.8 SEER2 ACiQ Air Conditioner Condenser - R454B"
+        },
+        {
+          "sku": "S4A5S36AKAWA",
+          "electrical": "208/230v 1 Phase 60 Hz",
+          "title": "ACiQ 3 Ton 14.3 SEER2 Horizontal Discharge Air Conditioner Condenser - R410A Single Stage"
+        },
+        {
+          "sku": "HVA960GKA",
+          "electrical": "208/230v 1 Phase 60 Hz",
+          "title": "5 Ton 19 SEER Variable Speed ACiQ Air Conditioner Condenser"
+        }
+      ]
+    },
+    {
+      "category": "Heat Pumps",
+      "models": [
+        {
+          "sku": "ACIQ-18-EHPB",
+          "electrical": "208/230V 1 Phase 60 Hz",
+          "title": "ACiQ 1.5 Ton 19.3 SEER2 High Efficiency Central Heat Pump | Inverter"
+        },
+        {
+          "sku": "ACiQ-24-EHPB",
+          "electrical": "208/230V 1 Phase 60 Hz",
+          "title": "ACiQ 2 Ton 19.4 SEER High Efficiency Central Heat Pump | Inverter"
+        },
+        {
+          "sku": "NXH618GKP-HP00120",
+          "electrical": "208 / 230 V. 1 Phase 60 Hz",
+          "title": "1.5 Ton 16 SEER ACiQ Heat Pump Condenser \u2013 Scratch & Dent \u2013 Minimal Damage"
+        },
+        {
+          "sku": "R5H5S18AKAAA",
+          "electrical": "208/230-200/230v 1 Phase 60 Hz",
+          "title": "1.5 Ton 14.3 SEER2 ACiQ Heat Pump - R454B"
+        },
+        {
+          "sku": "ACIQ-18-EHPD",
+          "electrical": "208/230V 1 Phase 60 Hz",
+          "title": "ACiQ 1.5 Ton 18.8 SEER2 High Efficiency Central Heat Pump | Inverter - R454B"
+        },
+        {
+          "sku": "R4H5S60AKAAA-HP00184",
+          "electrical": "208/230v 1 Phase 60 Hz",
+          "title": "5 Ton 14.3 SEER2 ACiQ Heat Pump \u2013 Scratch & Dent \u2013 Moderate Damage"
+        },
+        {
+          "sku": "R5H5S24AKAAA",
+          "electrical": "208/230v 1Ph 60Hz",
+          "title": "2 Ton 14.3 SEER2 ACiQ Heat Pump - R454B"
+        },
+        {
+          "sku": "ACiQ-24-EHPD",
+          "electrical": "208/230V 1 Phase 60 Hz",
+          "title": "ACiQ 2 Ton 18.1 SEER2 High Efficiency Central Heat Pump | Inverter - R454B"
+        },
+        {
+          "sku": "N4H624GK",
+          "electrical": "208 / 230 V. 1 Phase 60 Hz",
+          "title": "2 Ton 16 SEER Two Stage ACiQ Heat Pump"
+        },
+        {
+          "sku": "ACIQ-18-HPD",
+          "electrical": "208/230V 1 Phase 60 Hz",
+          "title": "ACiQ 1.5 Ton 19 SEER2 High Efficiency Central Heat Pump | Inverter | Extreme Series - R454B"
+        },
+        {
+          "sku": "ACiQ-24-HPD",
+          "electrical": "208/230V 1 Phase 60 Hz",
+          "title": "ACiQ 2 Ton 18.3 SEER2 High Efficiency Central Heat Pump | Inverter | Extreme Series - R454B"
+        },
+        {
+          "sku": "R4H5S18AKAAA",
+          "electrical": "208 / 230v 1 Phase 60 Hz",
+          "title": "ACiQ 1.5 Ton 14.3 SEER2 Heat Pump Condenser - R410A Single Stage"
+        },
+        {
+          "sku": "ACIQ-30-EHPB",
+          "electrical": "208/230V 1 Phase 60 Hz",
+          "title": "ACiQ 2.5 Ton 16.9 SEER2 High Efficiency Central Heat Pump | Inverter"
+        },
+        {
+          "sku": "R4H5S24AKAAA",
+          "electrical": "208 / 230v 1 Phase 60 Hz",
+          "title": "ACiQ 2 Ton 14.3 SEER2 Heat Pump Condenser - R410A Single Stage"
+        },
+        {
+          "sku": "HCH624GKA",
+          "electrical": "208 / 230 V. 1 Phase 60 Hz",
+          "title": "2 Ton 16 SEER Communicating Two Stage ACiQ Heat Pump"
+        },
+        {
+          "sku": "R5H5S30AKAAA",
+          "electrical": "208/230v 1Ph 60Hz",
+          "title": "2.5 Ton 14.3 SEER2 ACiQ Heat Pump - R454B"
+        },
+        {
+          "sku": "ACIQ-30-EHPD",
+          "electrical": "208/230V 1 Phase 60 Hz",
+          "title": "ACiQ 2.5 Ton 17 SEER2 High Efficiency Central Heat Pump | Inverter - R454B"
+        },
+        {
+          "sku": "ACIQ-30-HPD",
+          "electrical": "208/230V 1 Phase 60 Hz",
+          "title": "ACiQ 2.5 Ton 16.8 SEER2 High Efficiency Central Heat Pump | Inverter | Extreme Series - R454B"
+        },
+        {
+          "sku": "H4H7T24AKAAA",
+          "electrical": "208/230v 1 Phase 60 Hz",
+          "title": "2 Ton 17.0 SEER2 Two Stage ACiQ Heat Pump"
+        },
+        {
+          "sku": "HVH824GKA",
+          "electrical": "208 / 230 V. 1 Phase 60 Hz",
+          "title": "2 Ton 18 SEER Variable Speed ACiQ Heat Pump"
+        },
+        {
+          "sku": "ACiQ-36-EHPB",
+          "electrical": "208/230V 1 Phase 60 Hz",
+          "title": "ACiQ 3 Ton 18 SEER High Efficiency Central Heat Pump | Inverter"
+        },
+        {
+          "sku": "N4H7T60AKAAA",
+          "electrical": "208/230v 1 Phase 60 Hz",
+          "title": "5 Ton 17 SEER2 Two Stage ACiQ Heat Pump"
+        },
+        {
+          "sku": "R5H5S36AKAAA",
+          "electrical": "208/230v 1Ph 60Hz",
+          "title": "3 Ton 14.3 SEER2 ACiQ Heat Pump - R454B"
+        },
+        {
+          "sku": "ACiQ-36-EHPD",
+          "electrical": "208/230V 1 Phase 60 Hz",
+          "title": "ACiQ 3 Ton 16.1 SEER2 High Efficiency Central Heat Pump | Inverter - R454B"
+        },
+        {
+          "sku": "ACiQ-36-HPD",
+          "electrical": "208/230V 1 Phase 60 Hz",
+          "title": "ACiQ 3 Ton 17.4 SEER2 High Efficiency Central Heat Pump | Inverter | Extreme Series - R454B"
+        },
+        {
+          "sku": "HCH648GKA",
+          "electrical": "208 / 230 V. 1 Phase 60 Hz",
+          "title": "4 Ton 16 SEER Communicating Two Stage ACiQ Heat Pump"
+        },
+        {
+          "sku": "R4H5S60AKAAA-HP00202",
+          "electrical": "208/230v 1 Phase 60 Hz",
+          "title": "5 Ton 14.3 SEER2 ACiQ Heat Pump \u2013 Scratch & Dent \u2013 Minimal Damage"
+        },
+        {
+          "sku": "R5H5S42AKAAA",
+          "electrical": "208/230v 1Ph 60Hz",
+          "title": "3.5 Ton 14.3 SEER2 ACiQ Heat Pump - R454B"
+        },
+        {
+          "sku": "HCH660GKA",
+          "electrical": "208 / 230 V. 1 Phase 60 Hz",
+          "title": "5 Ton 16 SEER Communicating Two Stage ACiQ Heat Pump"
+        },
+        {
+          "sku": "ACiQ-42-HPD",
+          "electrical": "208/230V 1 Phase 60 Hz",
+          "title": "ACiQ 3.5 Ton 16.7 SEER2 High Efficiency Central Heat Pump | Inverter | Extreme Series - R454B"
+        },
+        {
+          "sku": "N4H648GK",
+          "electrical": "208 / 230 V. 1 Phase 60",
+          "title": "4 Ton 16 SEER Two Stage ACiQ Heat Pump"
+        },
+        {
+          "sku": "ACiQ-48-HPB",
+          "electrical": "208/230V 1 Phase 60 Hz",
+          "title": "ACiQ 4 Ton 16 SEER High Efficiency Central Heat Pump | Inverter | Extreme Series"
+        },
+        {
+          "sku": "ACIQ-48-EHPD",
+          "electrical": "208/230V 1 Phase 60 Hz",
+          "title": "ACiQ 4 Ton 16 SEER2 High Efficiency Central Heat Pump | Inverter - R454B"
+        },
+        {
+          "sku": "R4H5S42AKAAA",
+          "electrical": "208/230v 1 Phase 60 Hz",
+          "title": "ACiQ 3.5 Ton 14.3 SEER2 Heat Pump Condenser - R410A Single Stage"
+        },
+        {
+          "sku": "ACiQ-48-HPD",
+          "electrical": "208/230V 1 Phase 60 Hz",
+          "title": "ACiQ 4 Ton 16.5 SEER2 High Efficiency Central Heat Pump | Inverter | Extreme Series - R454B"
+        },
+        {
+          "sku": "ACiQ-36-HPC",
+          "electrical": "208/230V 1 Phase 60 Hz",
+          "title": "ACiQ 3 Ton 18 SEER High Efficiency Central Heat Pump | Inverter | Extreme Series"
+        },
+        {
+          "sku": "H4H7T48AKAAA-HP00173",
+          "electrical": "208/230v 1 Phase 60 Hz",
+          "title": "4 Ton 17.0 SEER2 Two Stage ACiQ Heat Pump \u2013 Scratch & Dent \u2013 Minimal Damage"
+        },
+        {
+          "sku": "R4H5S48AKAAA",
+          "electrical": "208 / 230v 1 Phase 60 Hz",
+          "title": "ACiQ 4 Ton 14.3 SEER2 Heat Pump Condenser - R410A Single Stage"
+        },
+        {
+          "sku": "R5H5S60AKAAA",
+          "electrical": "208/230v 1Ph 60Hz",
+          "title": "5 Ton 14.3 SEER2 ACiQ Heat Pump - R454B"
+        },
+        {
+          "sku": "ACiQ-60-EHPD",
+          "electrical": "208/230V 1 Phase 60 Hz",
+          "title": "ACiQ 5 Ton 15.2 SEER2 High Efficiency Central Heat Pump | Inverter - R454B"
+        },
+        {
+          "sku": "ACiQ-60-HPD",
+          "electrical": "208/230V 1 Phase 60 Hz",
+          "title": "ACiQ 5 Ton 16 SEER2 High Efficiency Central Heat Pump | Inverter | Extreme Series - R454B"
+        },
+        {
+          "sku": "R4H5S60AKAAA",
+          "electrical": "208/230v 1 Phase 60 Hz",
+          "title": "ACiQ 5 Ton 14.3 SEER2 Heat Pump Condenser - R410A Single Stage"
+        }
+      ]
+    },
+    {
+      "category": "Furnaces",
+      "models": [
+        {
+          "sku": "N80MSN0451412A",
+          "electrical": "unknown",
+          "title": "44,000 BTU 80% AFUE Single Stage Multi-Positional ACiQ Gas Furnace"
+        },
+        {
+          "sku": "N80MSN0451714A",
+          "electrical": "115v 1 Phase 60 Hz",
+          "title": "44,000 BTU 80% AFUE Single Stage Multi-Positional ACiQ Gas Furnace"
+        },
+        {
+          "sku": "N80ESN1102120A-FURN00629",
+          "electrical": "115v 1 Phase 60 Hz",
+          "title": "110,000 BTU 80% AFUE Single Stage Multi-Positional ACiQ Gas Furnace \u2013 Scratch & Dent \u2013 Moderate Damage"
+        },
+        {
+          "sku": "N80MSN0701412A",
+          "electrical": "unknown",
+          "title": "66,000 BTU 80% AFUE Single Stage Multi-Positional ACiQ Gas Furnace"
+        },
+        {
+          "sku": "N80MSN0701712A",
+          "electrical": "115v 1 Phase 60 Hz",
+          "title": "66,000 BTU 80% AFUE Single Stage Multi-Positional ACiQ Gas Furnace"
+        },
+        {
+          "sku": "N80MSN0901714A",
+          "electrical": "115v 1 Phase 60 Hz",
+          "title": "88,000 BTU 80% AFUE Single Stage Multi-Positional ACiQ Gas Furnace"
+        },
+        {
+          "sku": "N95ESN0401410A",
+          "electrical": "unknown",
+          "title": "40,000 BTU 96% AFUE Single Stage Multi-Positional ACiQ Gas Furnace"
+        },
+        {
+          "sku": "R92ESN0401712A",
+          "electrical": "115v 1 Phase 60 Hz",
+          "title": "40,000 BTU 92% AFUE Single Stage Multi-Positional ACiQ Gas Furnace"
+        },
+        {
+          "sku": "N80MSN0702116A",
+          "electrical": "115v 1 Phase 60 Hz",
+          "title": "66,000 BTU 80% AFUE Single Stage Multi-Positional ACiQ Gas Furnace"
+        },
+        {
+          "sku": "N80MSN0902116A",
+          "electrical": "115v 1 Phase 60 Hz",
+          "title": "88,000 BTU 80% AFUE Single Stage Multi-Positional ACiQ Gas Furnace"
+        },
+        {
+          "sku": "N80MSN0902120A",
+          "electrical": "115v 1 Phase 60 Hz",
+          "title": "88,000 BTU 80% AFUE Single Stage Multi-Positional ACiQ Gas Furnace"
+        },
+        {
+          "sku": "N96MSN0601716A-FURN00596",
+          "electrical": "unknown",
+          "title": "60,000 BTU 96% AFUE Single Stage Multi-Positional ACiQ Gas Furnace \u2013 Scratch & Dent \u2013 Minimal Damage"
+        },
+        {
+          "sku": "N80MSN1102120A",
+          "electrical": "115v 1 Phase 60 Hz",
+          "title": "110,000 BTU 80% AFUE Single Stage Multi-Positional ACiQ Gas Furnace"
+        },
+        {
+          "sku": "N80ESN1352420A",
+          "electrical": "115v 1 Phase 60 Hz",
+          "title": "132,000 BTU 80% AFUE Single Stage Multi-Positional ACiQ Gas Furnace"
+        },
+        {
+          "sku": "R92MSN0401412A",
+          "electrical": "115v 1 Phase 60 Hz",
+          "title": "40,000 BTU 92% AFUE Single Stage Multi-Positional ACiQ Gas Furnace"
+        },
+        {
+          "sku": "N96MSN0801716A-FURN00621",
+          "electrical": "unknown",
+          "title": "80,000 BTU 96% AFUE Single Stage Multi-Positional ACiQ Gas Furnace \u2013 Scratch & Dent \u2013 Moderate Damage"
+        },
+        {
+          "sku": "N80MSN1552420A-FURN00623",
+          "electrical": "115v 1 Phase 60 Hz",
+          "title": "154,000 BTU 80% AFUE Single Stage Multi-Positional ACiQ Gas Furnace \u2013 Scratch & Dent \u2013 Minimal Damage"
+        },
+        {
+          "sku": "N80MSN1102420A",
+          "electrical": "115v 1 Phase 60 Hz",
+          "title": "110,000 BTU 80% AFUE Single Stage Multi-Positional ACiQ Gas Furnace"
+        }
+      ]
+    },
+    {
+      "category": "Water Heaters and Boilers",
+      "models": [
+        {
+          "sku": "ACiQ-50G-HP-WH",
+          "electrical": "208V/240V, 60Hz, 1Ph",
+          "title": "ACiQ Electric Residential Hybrid Heat Pump Water Heater - ACiQ-50G-HP-WH"
+        },
+        {
+          "sku": "ACiQ-80G-HP-WH",
+          "electrical": "208V/240V, 60Hz, 1Ph",
+          "title": "ACiQ Electric Residential Hybrid Heat Pump Water Heater - ACiQ-80G-HP-WH"
+        }
+      ]
+    },
+    {
+      "category": "Air Handlers",
+      "models": [
+        {
+          "sku": "ACIQ-18W-WM",
+          "electrical": "208-230 Single Phase 60 Hz",
+          "title": "1.5 Ton Wall Mounted ACiQ Air Handler"
+        },
+        {
+          "sku": "ACIQ-24W-WM",
+          "electrical": "208-230 Single Phase 60 Hz",
+          "title": "2 Ton Wall Mounted ACiQ Air Handler"
+        },
+        {
+          "sku": "ACIQ-18W-P",
+          "electrical": "208/230v 1 Phase 60 Hz",
+          "title": "1.5 Ton Ceiling-Mount ACIQ Air Handler"
+        },
+        {
+          "sku": "ACIQ-24W-P",
+          "electrical": "208/230v 1 Phase 60 Hz",
+          "title": "2 Ton Ceiling-Mount ACIQ Air Handler"
+        },
+        {
+          "sku": "ACIQ-30W-WM",
+          "electrical": "208-230 Single Phase 60 Hz",
+          "title": "2.5 Ton Wall Mounted ACiQ Air Handler"
+        },
+        {
+          "sku": "ACIQ-36W-WM",
+          "electrical": "208-230 Single Phase 60 Hz",
+          "title": "3 Ton Wall Mounted ACiQ Air Handler"
+        },
+        {
+          "sku": "ACIQ-30W-P",
+          "electrical": "208/230v 1 Phase 60 Hz",
+          "title": "2.5 Ton Ceiling-Mount ACIQ Air Handler"
+        },
+        {
+          "sku": "ACIQ-36W-P",
+          "electrical": "208/230v 1 Phase 60 Hz",
+          "title": "3 Ton Ceiling-Mount ACIQ Air Handler"
+        },
+        {
+          "sku": "FJMA4X24L0BC",
+          "electrical": "208/230v 1 Phase 60 Hz",
+          "title": "2 Ton Multi-Positional ACiQ Air Handler"
+        },
+        {
+          "sku": "FJMA4X30L0BB",
+          "electrical": "208/230v 1 Phase 60 Hz",
+          "title": "2.5 Ton Multi-Positional ACiQ Air Handler"
+        },
+        {
+          "sku": "FHMA5X18L0AA",
+          "electrical": "208/230v 1 Phase 60 Hz",
+          "title": "1.5 Ton 14\" Width ACiQ Multi-Positional Air Handler - R454B"
+        },
+        {
+          "sku": "FJMA4X36L0BB",
+          "electrical": "208/230v 1 Phase 60 Hz",
+          "title": "3 Ton Multi-Positional ACiQ Air Handler"
+        },
+        {
+          "sku": "FHMA5X24L0BA",
+          "electrical": "208/230v 1 Phase 60 Hz",
+          "title": "2 Ton 17.5\" Width ACiQ Multi-Positional Air Handler - R454B"
+        },
+        {
+          "sku": "FHMA5X30L0BA",
+          "electrical": "208/230v 1 Phase 60 Hz",
+          "title": "2.5 Ton 17.5\" Width ACiQ Multi-Positional Air Handler - R454B"
+        },
+        {
+          "sku": "FJMA4X42L0CB",
+          "electrical": "208/230v 1 Phase 60 Hz",
+          "title": "3.5 Ton Multi-Positional ACiQ Air Handler"
+        }
+      ]
+    }
+  ],
+  "Private Brand": [
+    {
+      "category": "Air Conditioning Systems",
+      "models": [
+        {
+          "sku": "AQ-GLXS3BN1810",
+          "electrical": "208 / 230 V. 1 Phase 60 Hz",
+          "title": "1.5 Ton 13.4 SEER2 Single Stage Air Conditioner Condenser - R32"
+        },
+        {
+          "sku": "AQ-GLXS3BN2410",
+          "electrical": "208 / 230 V. 1 Phase 60 Hz",
+          "title": "2 Ton 13.4 SEER2 Single Stage Air Conditioner Condenser - R32"
+        },
+        {
+          "sku": "AQ-GLXS3BN3010",
+          "electrical": "208 / 230 V. 1 Phase 60 Hz",
+          "title": "2.5 Ton 13.4 SEER2 Single Stage Air Conditioner Condenser - R32"
+        },
+        {
+          "sku": "AQ-GLXS4BA1810",
+          "electrical": "208/230v 1 Phase 60Hz",
+          "title": "1.5 Ton 14.3 SEER2 Single Stage Air Conditioner Condenser - R32"
+        },
+        {
+          "sku": "AQ-GLXS4BA2410",
+          "electrical": "208/230v 1 Phase 60Hz",
+          "title": "2 Ton 14.3 SEER2 Single Stage Air Conditioner Condenser - R32"
+        },
+        {
+          "sku": "AQ-GLXS3BN3610",
+          "electrical": "208 / 230 V. 1 Phase 60 Hz",
+          "title": "3 Ton 13.4 SEER2 Single Stage Air Conditioner Condenser - R32"
+        },
+        {
+          "sku": "AQ-GLXS4BA3010",
+          "electrical": "208/230v 1 Phase 60Hz",
+          "title": "2.5 Ton 14.3 SEER2 Single Stage Air Conditioner Condenser - R32"
+        },
+        {
+          "sku": "AQ-GLXS4BA3610",
+          "electrical": "208/230v 1 Phase 60Hz",
+          "title": "3 Ton 14.3 SEER2 Single Stage Air Conditioner Condenser - R32"
+        },
+        {
+          "sku": "AQ-GLXS3BN4210",
+          "electrical": "208 / 230 V. 1 Phase 60 Hz",
+          "title": "3.5 Ton 13.4 SEER2 Single Stage Air Conditioner Condenser - R32"
+        },
+        {
+          "sku": "AQ-GLXS3BN4810",
+          "electrical": "208 / 230 V. 1 Phase 60 Hz",
+          "title": "4 Ton 13.4 SEER2 Single Stage Air Conditioner Condenser - R32"
+        },
+        {
+          "sku": "AQ-GLXS4BA4210",
+          "electrical": "208/230v 1 Phase 60Hz",
+          "title": "3.5 Ton 14.3 SEER2 Single Stage Air Conditioner Condenser - R32"
+        },
+        {
+          "sku": "AQ-GLXS4BA4810",
+          "electrical": "208/230v 1 Phase 60Hz",
+          "title": "4 Ton 14.3 SEER2 Single Stage Air Conditioner Condenser - R32"
+        },
+        {
+          "sku": "AQ-GLXS3BN6010",
+          "electrical": "208 / 230 V. 1 Phase 60 Hz",
+          "title": "5 Ton 13.4 SEER2 Single Stage Air Conditioner Condenser - R32"
+        },
+        {
+          "sku": "AQ-GLXS4BA6010",
+          "electrical": "208/230v 1 Phase 60Hz",
+          "title": "5 Ton 14.3 SEER2 Single Stage Air Conditioner Condenser - R32"
+        }
+      ]
+    },
+    {
+      "category": "Heat Pumps",
+      "models": [
+        {
+          "sku": "AQ-GLZS4BA1810",
+          "electrical": "208/230v 1 Phase 60 Hz",
+          "title": "1.5 Ton 14.3 SEER2 Single Stage Heat Pump Condenser - R32"
+        },
+        {
+          "sku": "AQ-GLZS4BA2410",
+          "electrical": "208/230v 1 Phase 60 Hz",
+          "title": "2 Ton 14.3 SEER2 Single Stage Heat Pump Condenser - R32"
+        },
+        {
+          "sku": "AQ-GLZS4BA3010",
+          "electrical": "208/230v 1 Phase 60 Hz",
+          "title": "2.5 Ton 14.3 SEER2 Single Stage Heat Pump Condenser - R32"
+        },
+        {
+          "sku": "AQ-GLZS4BA3610",
+          "electrical": "208/230v 1 Phase 60 Hz",
+          "title": "3 Ton 14.3 SEER2 Single Stage Heat Pump Condenser - R32"
+        },
+        {
+          "sku": "AQ-GLZS4BA4210",
+          "electrical": "208/230v 1 Phase 60 Hz",
+          "title": "3.5 Ton 14.3 SEER2 Single Stage Heat Pump Condenser - R32"
+        },
+        {
+          "sku": "AQ-GLZS4BA4810",
+          "electrical": "208/230v 1 Phase 60 Hz",
+          "title": "4 Ton 14.3 SEER2 Single Stage Heat Pump Condenser - R32"
+        },
+        {
+          "sku": "AQ-GLZS4BA6010",
+          "electrical": "208/230v 1 Phase 60 Hz",
+          "title": "5 Ton 14.3 SEER2 Single Stage Heat Pump Condenser - R32"
+        }
+      ]
+    },
+    {
+      "category": "Furnaces",
+      "models": [
+        {
+          "sku": "AQ-GR9S800403AN",
+          "electrical": "115v 1 Phase 60 Hz",
+          "title": "40,000 BTU 80% AFUE 9-Speed Single Stage Gas Furnace - Upflow/Horizontal"
+        },
+        {
+          "sku": "AQ-GD9S800403AN",
+          "electrical": "115v 1 Phase 60 Hz",
+          "title": "40,000 BTU 80% AFUE 9-Speed Single Stage Gas Furnace - Downflow/Horizontal"
+        },
+        {
+          "sku": "AQ-GR9S800603AN",
+          "electrical": "115v 1 Phase 60 Hz",
+          "title": "60,000 BTU 80% AFUE 9-Speed Single Stage Gas Furnace - Upflow/Horizontal"
+        },
+        {
+          "sku": "AQ-GR9S800603BN",
+          "electrical": "115v 1 Phase 60 Hz",
+          "title": "60,000 BTU 80% AFUE 9-Speed Single Stage Gas Furnace - Upflow/Horizontal"
+        },
+        {
+          "sku": "AQ-GR9S800604BN",
+          "electrical": "115v 1 Phase 60 Hz",
+          "title": "60,000 BTU 80% AFUE 9-Speed Single Stage Gas Furnace - Upflow/Horizontal"
+        },
+        {
+          "sku": "AQ-GD9S800603AN",
+          "electrical": "115v 1 Phase 60 Hz",
+          "title": "60,000 BTU 80% AFUE 9-Speed Single Stage Gas Furnace - Downflow/Horizontal"
+        },
+        {
+          "sku": "AQ-GR9S800803BN",
+          "electrical": "115v 1 Phase 60 Hz",
+          "title": "80,000 BTU 80% AFUE 9-Speed Single Stage Gas Furnace - Upflow/Horizontal"
+        },
+        {
+          "sku": "AQ-GM9S801005CN",
+          "electrical": "115 V. 1 Phase 60 Hz",
+          "title": "100,000 BTU 80% AFUE 9-Speed Single Stage Gas Furnace - Upflow/Horizontal"
+        },
+        {
+          "sku": "AQ-GR9S800804BN",
+          "electrical": "115v 1 Phase 60 Hz",
+          "title": "80,000 BTU 80% AFUE 9-Speed Single Stage Gas Furnace - Upflow/Horizontal"
+        },
+        {
+          "sku": "AQ-GR9S800804CN",
+          "electrical": "115v 1 Phase 60 Hz",
+          "title": "80,000 BTU 80% AFUE 9-Speed Single Stage Gas Furnace - Upflow/Horizontal"
+        },
+        {
+          "sku": "AQ-GR9S800805CN",
+          "electrical": "115v 1 Phase 60 Hz",
+          "title": "80,000 BTU 80% AFUE 9-Speed Single Stage Gas Furnace - Upflow/Horizontal"
+        },
+        {
+          "sku": "AQ-GD9S800804BN",
+          "electrical": "115v 1 Phase 60 Hz",
+          "title": "80,000 BTU 80% AFUE 9-Speed Single Stage Gas Furnace - Downflow/Horizontal"
+        },
+        {
+          "sku": "AQ-GR9S801005CN",
+          "electrical": "115v 1 Phase 60 Hz",
+          "title": "100,000 BTU 80% AFUE 9-Speed Single Stage Gas Furnace - Upflow/Horizontal"
+        },
+        {
+          "sku": "AQ-GR9T800603AN",
+          "electrical": "115v 1 Phase 60 Hz",
+          "title": "60,000 BTU 80% AFUE 9-Speed Two Stage Gas Furnace - Upflow/Horizontal"
+        },
+        {
+          "sku": "AQ-GD9S801005CN",
+          "electrical": "115v 1 Phase 60 Hz",
+          "title": "100,000 BTU 80% AFUE 9-Speed Single Stage Gas Furnace - Downflow/Horizontal"
+        },
+        {
+          "sku": "AQ-GR9S920603BN",
+          "electrical": "115 V. 1 Phase 60 Hz",
+          "title": "60,000 BTU 92% AFUE 9-Speed Single Stage Gas Furnace - Upflow/Horizontal"
+        },
+        {
+          "sku": "AQ-GR9S801205DN",
+          "electrical": "115v 1 Phase 60 Hz",
+          "title": "120,000 BTU 80% AFUE 9-Speed Single Stage Gas Furnace - Upflow/Horizontal"
+        },
+        {
+          "sku": "AQ-GR9S960403AN",
+          "electrical": "115v 1 Phase 60 Hz",
+          "title": "40,000 BTU 96% AFUE 9-Speed Single Stage Gas Furnace - Upflow/Horizontal"
+        }
+      ]
+    },
+    {
+      "category": "Air Handlers",
+      "models": [
+        {
+          "sku": "AQ-AMST24BU1300",
+          "electrical": "208/240v 1 Phase 60Hz",
+          "title": "2 Ton Multi-Positional Air Handler - R32"
+        },
+        {
+          "sku": "AQ-AMST30BU1300",
+          "electrical": "208/240v 1 Phase 60Hz",
+          "title": "2.5 Ton Multi-Positional Air Handler - R32"
+        },
+        {
+          "sku": "AQ-AMST36CU1300",
+          "electrical": "208/240v 1 Phase 60Hz",
+          "title": "3 Ton Multi-Positional Air Handler - R32"
+        },
+        {
+          "sku": "AQ-AMST42CU1300",
+          "electrical": "208/240v 1 Phase 60Hz",
+          "title": "3.5 Ton Multi-Positional Air Handler - R32"
+        },
+        {
+          "sku": "AQ-AMST48CU1300",
+          "electrical": "208/240v 1 Phase 60Hz",
+          "title": "4 Ton Multi-Positional Air Handler - R32"
+        }
+      ]
+    }
+  ],
+  "Goodman": [
+    {
+      "category": "Air Conditioning Systems",
+      "models": [
+        {
+          "sku": "GLXS4BA1810-AC00741",
+          "electrical": "208/230v 1 Phase 60Hz",
+          "title": "1.5 Ton 14.3 SEER2 Goodman Air Conditioner Condenser - R32 \u2013 Scratch & Dent \u2013 Minimal Damage"
+        },
+        {
+          "sku": "GLXS3BN1810",
+          "electrical": "208 / 230 V. 1 Phase 60 Hz",
+          "title": "Goodman 1.5 Ton 13.4 SEER2 Central Air Conditioner Condenser - R32 Single Stage"
+        },
+        {
+          "sku": "GLXS3BN2410",
+          "electrical": "208 / 230 V. 1 Phase 60 Hz",
+          "title": "Goodman 2 Ton 13.4 SEER2 Central Air Conditioner Condenser - R32 Single Stage"
+        },
+        {
+          "sku": "GLXS3BN3010",
+          "electrical": "208 / 230 V. 1 Phase 60 Hz",
+          "title": "Goodman 2.5 Ton 13.4 SEER2 Central Air Conditioner Condenser - R32 Single Stage"
+        },
+        {
+          "sku": "GLXS4BA1810",
+          "electrical": "208/230v 1 Phase 60Hz",
+          "title": "Goodman 1.5 Ton 14.3 SEER2 Central Air Conditioner Condenser - R32 Single Stage"
+        },
+        {
+          "sku": "GLXS4BA2410",
+          "electrical": "208/230v 1 Phase 60Hz",
+          "title": "Goodman 2 Ton 14.3 SEER2 Central Air Conditioner Condenser - R32 Single Stage"
+        },
+        {
+          "sku": "GLXS3BN3610",
+          "electrical": "208 / 230 V. 1 Phase 60 Hz",
+          "title": "Goodman 3 Ton 13.4 SEER2 Central Air Conditioner Condenser - R32 Single Stage"
+        },
+        {
+          "sku": "GLXS4BA3010",
+          "electrical": "208/230v 1 Phase 60Hz",
+          "title": "Goodman 2.5 Ton 14.3 SEER2 Central Air Conditioner Condenser - R32 Single Stage"
+        },
+        {
+          "sku": "GLXS5BA1810",
+          "electrical": "208/230v 1 Phase 60Hz",
+          "title": "Goodman 1.5 Ton 15.2 SEER2 High Efficiency Central Air Conditioner Condenser - R32 Single Stage"
+        },
+        {
+          "sku": "GLXS4BA3610-AC00778",
+          "electrical": "208/230v 1 Phase 60Hz",
+          "title": "Goodman 3 Ton 14.3 SEER2 Central Air Conditioner Condenser - R32 Single Stage \u2013 Scratch & Dent \u2013 Minimal Damage"
+        },
+        {
+          "sku": "GLXS4BA3610",
+          "electrical": "208/230v 1 Phase 60Hz",
+          "title": "Goodman 3 Ton 14.3 SEER2 Central Air Conditioner Condenser - R32 Single Stage"
+        },
+        {
+          "sku": "GLXS3BN4210",
+          "electrical": "208 / 230 V. 1 Phase 60 Hz",
+          "title": "Goodman 3.5 Ton 13.4 SEER2 Central Air Conditioner Condenser - R32 Single Stage"
+        },
+        {
+          "sku": "GLXS5BA2410",
+          "electrical": "208/230v 1 Phase 60Hz",
+          "title": "Goodman 2 Ton 15.2 SEER2 High Efficiency Central Air Conditioner Condenser - R32 Single Stage"
+        },
+        {
+          "sku": "GLXS5BA3010",
+          "electrical": "208/230v 1 Phase 60Hz",
+          "title": "Goodman 2.5 Ton 15.2 SEER2 High Efficiency Central Air Conditioner Condenser - R32 Single Stage"
+        },
+        {
+          "sku": "GLXS3BN4810",
+          "electrical": "208 / 230 V. 1 Phase 60 Hz",
+          "title": "Goodman 4 Ton 13.4 SEER2 Central Air Conditioner Condenser - R32 Single Stage"
+        },
+        {
+          "sku": "GLXS4BA4210",
+          "electrical": "208/230v 1 Phase 60Hz",
+          "title": "Goodman 3.5 Ton 14.3 SEER2 Central Air Conditioner Condenser - R32 Single Stage"
+        },
+        {
+          "sku": "GLXS5BA3610",
+          "electrical": "208/230v 1 Phase 60Hz",
+          "title": "Goodman 3 Ton 15.2 SEER2 High Efficiency Central Air Conditioner Condenser - R32 Single Stage"
+        },
+        {
+          "sku": "GLXS4BA4810",
+          "electrical": "208/230v 1 Phase 60Hz",
+          "title": "Goodman 4 Ton 14.3 SEER2 Central Air Conditioner Condenser - R32 Single Stage"
+        },
+        {
+          "sku": "GLXS3BN6010",
+          "electrical": "208 / 230 V. 1 Phase 60 Hz",
+          "title": "Goodman 5 Ton 13.4 SEER2 Central Air Conditioner Condenser - R32 Single Stage"
+        },
+        {
+          "sku": "GLXT7CA2410",
+          "electrical": "208/230v 1 Phase 60Hz",
+          "title": "Goodman 2 Ton 17.2 SEER2 High Efficiency Central Air Conditioner Condenser - R32 Two Stage"
+        },
+        {
+          "sku": "GLXS5BA4210",
+          "electrical": "208/230v 1 Phase 60Hz",
+          "title": "Goodman 3.5 Ton 15.2 SEER2 High Efficiency Central Air Conditioner Condenser - R32 Single Stage"
+        },
+        {
+          "sku": "GLXS4BA6010",
+          "electrical": "208/230v 1 Phase 60Hz",
+          "title": "Goodman 5 Ton 14.3 SEER2 Central Air Conditioner Condenser - R32 Single Stage"
+        },
+        {
+          "sku": "GLXS5BA4810",
+          "electrical": "208/230v 1 Phase 60Hz",
+          "title": "Goodman 4 Ton 15.2 SEER2 High Efficiency Central Air Conditioner Condenser - R32 Single Stage"
+        },
+        {
+          "sku": "GLXT7CA3610",
+          "electrical": "208/230v 1 Phase 60Hz",
+          "title": "Goodman 3 Ton 17.2 SEER2 High Efficiency Central Air Conditioner Condenser - R32 Two Stage"
+        },
+        {
+          "sku": "GLXS5BA6010",
+          "electrical": "208/230v 1 Phase 60Hz",
+          "title": "Goodman 5 Ton 15.2 SEER2 High Efficiency Central Air Conditioner Condenser - R32 Two Stage"
+        },
+        {
+          "sku": "GLXT7CA4810",
+          "electrical": "208/230v 1 Phase 60Hz",
+          "title": "Goodman 4 Ton 17.2 SEER2 High Efficiency Central Air Conditioner Condenser - R32 Two Stage"
+        },
+        {
+          "sku": "GLXT7CA6010",
+          "electrical": "208/230v 1 Phase 60Hz",
+          "title": "Goodman 5 Ton 17.2 SEER2 High Efficiency Central Air Conditioner Condenser - R32 Two Stage"
+        }
+      ]
+    },
+    {
+      "category": "Heat Pumps",
+      "models": [
+        {
+          "sku": "GLZS4BA2410-HP00203",
+          "electrical": "208/230v 1 Phase 60 Hz",
+          "title": "2 Ton 14.3 SEER2 Goodman Heat Pump - R32 \u2013 Scratch & Dent \u2013 Minimal Damage"
+        },
+        {
+          "sku": "GLZS4BA1810",
+          "electrical": "208/230v 1 Phase 60 Hz",
+          "title": "1.5 Ton 14.3 SEER2 Goodman Heat Pump - R32"
+        },
+        {
+          "sku": "GLZS4BA2410",
+          "electrical": "208/230v 1 Phase 60 Hz",
+          "title": "2 Ton 14.3 SEER2 Goodman Heat Pump - R32"
+        },
+        {
+          "sku": "GLZS4BA3010",
+          "electrical": "208/230v 1 Phase 60 Hz",
+          "title": "2.5 Ton 14.3 SEER2 Goodman Heat Pump - R32"
+        },
+        {
+          "sku": "GLZS5BA1810",
+          "electrical": "208/230v 1 Phase 60Hz",
+          "title": "1.5 Ton 15.2 SEER2 High Efficiency Goodman Heat Pump - R32"
+        },
+        {
+          "sku": "GLZS5BA2410",
+          "electrical": "208/230v 1 Phase 60Hz",
+          "title": "2 Ton 15.2 SEER2 High Efficiency Goodman Heat Pump - R32"
+        },
+        {
+          "sku": "GLZS4BA3610",
+          "electrical": "208/230v 1 Phase 60 Hz",
+          "title": "3 Ton 14.3 SEER2 Goodman Heat Pump - R32"
+        },
+        {
+          "sku": "GLZS4BA4810-HP00186",
+          "electrical": "208/230v 1 Phase 60 Hz",
+          "title": "4 Ton 14.3 SEER2 Goodman Heat Pump - R32 \u2013 Scratch & Dent \u2013 Minimal Damage"
+        },
+        {
+          "sku": "GLZS4BA4810-HP00200",
+          "electrical": "208/230v 1 Phase 60 Hz",
+          "title": "4 Ton 14.3 SEER2 Goodman Heat Pump - R32 \u2013 Scratch & Dent \u2013 Minimal Damage"
+        },
+        {
+          "sku": "GLZS5BA3010",
+          "electrical": "208/230v 1 Phase 60Hz",
+          "title": "2.5 Ton 15.2 SEER2 High Efficiency Goodman Heat Pump - R32"
+        },
+        {
+          "sku": "GLZS4BA4210",
+          "electrical": "208/230v 1 Phase 60 Hz",
+          "title": "3.5 Ton 14.3 SEER2 Goodman Heat Pump - R32"
+        },
+        {
+          "sku": "GLZS5BA3610",
+          "electrical": "208/230v 1 Phase 60Hz",
+          "title": "3 Ton 15.2 SEER2 High Efficiency Goodman Heat Pump - R32"
+        },
+        {
+          "sku": "GLZS4BA4810",
+          "electrical": "208/230v 1 Phase 60 Hz",
+          "title": "4 Ton 14.3 SEER2 Goodman Heat Pump - R32"
+        },
+        {
+          "sku": "GLZS5BA4210",
+          "electrical": "208/230v 1 Phase 60Hz",
+          "title": "3.5 Ton 15.2 SEER2 High Efficiency Goodman Heat Pump - R32"
+        },
+        {
+          "sku": "GLZT7CA2410",
+          "electrical": "208/230 V 1 Phase 60 Hz",
+          "title": "2 Ton 17 SEER2 Two Stage Goodman Heat Pump - R32"
+        },
+        {
+          "sku": "GLZS5BA4810",
+          "electrical": "208/230v 1 Phase 60Hz",
+          "title": "4 Ton 15.2 SEER2 High Efficiency Goodman Heat Pump - R32"
+        },
+        {
+          "sku": "GLZS4BA6010",
+          "electrical": "208/230v 1 Phase 60 Hz",
+          "title": "5 Ton 14.3 SEER2 Goodman Heat Pump - R32"
+        },
+        {
+          "sku": "GLZT7CA3610",
+          "electrical": "208/230 V 1 Phase 60 Hz",
+          "title": "3 Ton 17 SEER2 Two Stage Goodman Heat Pump - R32"
+        },
+        {
+          "sku": "GLZS5BA6010",
+          "electrical": "208/230v 1 Phase 60Hz",
+          "title": "5 Ton 15.2 SEER2 High Efficiency Goodman Heat Pump - R32"
+        },
+        {
+          "sku": "GLZT7CA4810",
+          "electrical": "208/230 V 1 Phase 60 Hz",
+          "title": "4 Ton 17 SEER2 Two Stage Goodman Heat Pump - R32"
+        },
+        {
+          "sku": "GLZT7CA4810",
+          "electrical": "208/230 V 1 Phase 60 Hz",
+          "title": "4 Ton 17 SEER2 Two Stage Goodman Heat Pump - R32"
+        },
+        {
+          "sku": "GLZT7CA6010",
+          "electrical": "208/230 V 1 Phase 60 Hz",
+          "title": "5 Ton 17 SEER2 Two Stage Goodman Heat Pump - R32"
+        }
+      ]
+    },
+    {
+      "category": "Furnaces",
+      "models": [
+        {
+          "sku": "GM9S800403AN",
+          "electrical": "115 V. 1 Phase 60 Hz",
+          "title": "40,000 BTU 80% AFUE 9-Speed Single Stage Goodman Gas Furnace - Upflow/Horizontal"
+        },
+        {
+          "sku": "GC9S800403AX",
+          "electrical": "115 V. 1 Phase 60 Hz",
+          "title": "40,000 BTU 80% AFUE 9-Speed Single Stage Goodman Gas Furnace Low NOx California Model - Downflow/Horizontal"
+        },
+        {
+          "sku": "GC9S800603AN",
+          "electrical": "115 V. 1 Phase 60 Hz",
+          "title": "60,000 BTU 80% AFUE 9-Speed Single Stage Goodman Gas Furnace - Downflow/Horizontal"
+        },
+        {
+          "sku": "GM9S800604BX",
+          "electrical": "115 V. 1 Phase 60 Hz",
+          "title": "60,000 BTU 80% AFUE 9-Speed Single Stage Goodman Gas Furnace Low NOx California Model - Upflow/Horizontal"
+        },
+        {
+          "sku": "GR9S800403AN",
+          "electrical": "115 V. 1 Phase 60 Hz",
+          "title": "40,000 BTU 80% AFUE 9-Speed Single Stage Goodman Gas Furnace - Upflow/Horizontal"
+        },
+        {
+          "sku": "GR9S800403AX",
+          "electrical": "115 V. 1 Phase 60 Hz",
+          "title": "40,000 BTU 80% AFUE 9-Speed Single Stage Goodman Low NOx Gas Furnace - Upflow/Horizontal"
+        },
+        {
+          "sku": "GM9C800403AN",
+          "electrical": "115 V. 1 Phase 60 Hz",
+          "title": "40,000 BTU 80% AFUE 9-Speed Two Stage Goodman Gas Furnace - Upflow/Horizontal"
+        },
+        {
+          "sku": "GD9S800403AN",
+          "electrical": "115 V. 1 Phase 60 Hz",
+          "title": "40,000 BTU 80% AFUE 9-Speed Single Stage Goodman Gas Furnace - Downflow/Horizontal"
+        },
+        {
+          "sku": "GD9S800403AX",
+          "electrical": "115 V. 1 Phase 60 Hz",
+          "title": "40,000 BTU 80% AFUE 9-Speed Single Stage Goodman Low NOx Gas Furnace - Downflow/Horizontal"
+        },
+        {
+          "sku": "GM9S800804BN",
+          "electrical": "115 V. 1 Phase 60 Hz",
+          "title": "80,000 BTU 80% AFUE Multi-Speed Single Stage Goodman Gas Furnace - Upflow/Horizontal"
+        },
+        {
+          "sku": "GM9S800804BX",
+          "electrical": "115 V. 1 Phase 60 Hz",
+          "title": "80,000 BTU 80% AFUE Multi-Speed Single Stage Goodman Gas Furnace Low NOx California Model - Upflow/Horizontal"
+        },
+        {
+          "sku": "GR9S800603AN",
+          "electrical": "115 V. 1 Phase 60 Hz",
+          "title": "60,000 BTU 80% AFUE 9-Speed Single Stage Goodman Gas Furnace - Upflow/Horizontal"
+        },
+        {
+          "sku": "GR9S800603AX",
+          "electrical": "115 V. 1 Phase 60 Hz",
+          "title": "60,000 BTU 80% AFUE 9-Speed Single Stage Goodman Low NOx Gas Furnace - Upflow/Horizontal"
+        },
+        {
+          "sku": "GR9S800603BN",
+          "electrical": "115 V. 1 Phase 60 Hz",
+          "title": "60,000 BTU 80% AFUE 9-Speed Single Stage Goodman Gas Furnace - Upflow/Horizontal"
+        },
+        {
+          "sku": "GR9S800603BX",
+          "electrical": "115 V. 1 Phase 60 Hz",
+          "title": "60,000 BTU 80% AFUE 9-Speed Single Stage Goodman Low NOx Gas Furnace - Upflow/Horizontal"
+        },
+        {
+          "sku": "GR9S800604BN",
+          "electrical": "115 V. 1 Phase 60 Hz",
+          "title": "60,000 BTU 80% AFUE 9-Speed Single Stage Goodman Gas Furnace - Upflow/Horizontal"
+        },
+        {
+          "sku": "GD9S800603AN",
+          "electrical": "115 V. 1 Phase 60 Hz",
+          "title": "60,000 BTU 80% AFUE 9-Speed Single Stage Goodman Gas Furnace - Downflow/Horizontal"
+        },
+        {
+          "sku": "GR9S800604BX",
+          "electrical": "115 V. 1 Phase 60 Hz",
+          "title": "60,000 BTU 80% AFUE 9-Speed Single Stage Goodman Low NOx Gas Furnace - Upflow/Horizontal"
+        },
+        {
+          "sku": "GD9S800603AX",
+          "electrical": "115 V. 1 Phase 60 Hz",
+          "title": "60,000 BTU 80% AFUE 9-Speed Single Stage Goodman Low NOx Gas Furnace - Downflow/Horizontal"
+        },
+        {
+          "sku": "GR9S800803BN",
+          "electrical": "115 V. 1 Phase 60 Hz",
+          "title": "80,000 BTU 80% AFUE 9-Speed Single Stage Goodman Gas Furnace - Upflow/Horizontal"
+        },
+        {
+          "sku": "GM9S800805CX",
+          "electrical": "115 V. 1 Phase 60 Hz",
+          "title": "80,000 BTU 80% AFUE Multi-Speed Single Stage Goodman Gas Furnace Low NOx California Model- Upflow/Horizontal"
+        },
+        {
+          "sku": "GR9S800803BX",
+          "electrical": "115 V. 1 Phase 60 Hz",
+          "title": "80,000 BTU 80% AFUE 9-Speed Single Stage Goodman Low NOx Gas Furnace - Upflow/Horizontal"
+        },
+        {
+          "sku": "GM9C800803BX",
+          "electrical": "115 V. 1 Phase 60 Hz",
+          "title": "80,000 BTU 80% AFUE 9-Speed Two Stage Goodman Gas Furnace Low NOx California Model - Upflow/Horizontal"
+        },
+        {
+          "sku": "GR9T800403AN",
+          "electrical": "115v 1 Phase 60 Hz",
+          "title": "40,000 BTU 80% AFUE 9-Speed Two Stage Goodman Gas Furnace - Upflow/Horizontal"
+        },
+        {
+          "sku": "GR9T800403AX",
+          "electrical": "115v 1 Phase 60 Hz",
+          "title": "40,000 BTU 80% AFUE 9-Speed Two Stage Goodman Low NOx Gas Furnace - Upflow/Horizontal"
+        },
+        {
+          "sku": "GM9S801005CN",
+          "electrical": "115 V. 1 Phase 60 Hz",
+          "title": "100,000 BTU 80% AFUE 9-Speed Single Stage Goodman Gas Furnace - Upflow/Horizontal"
+        },
+        {
+          "sku": "GR9S800804BN",
+          "electrical": "115 V. 1 Phase 60 Hz",
+          "title": "80,000 BTU 80% AFUE 9-Speed Single Stage Goodman Gas Furnace - Upflow/Horizontal"
+        },
+        {
+          "sku": "GM9C800804BX",
+          "electrical": "115 V. 1 Phase 60 Hz",
+          "title": "80,000 BTU 80% AFUE 9-Speed Two Stage Goodman Gas Furnace Low NOx California Model - Upflow/Horizontal"
+        },
+        {
+          "sku": "GR9S800804BX",
+          "electrical": "115 V. 1 Phase 60 Hz",
+          "title": "80,000 BTU 80% AFUE 9-Speed Single Stage Goodman Low NOx Gas Furnace - Upflow/Horizontal"
+        },
+        {
+          "sku": "GD9T800403AX",
+          "electrical": "115 V. 1 Phase 60 Hz",
+          "title": "40,000 BTU 80% AFUE 9-Speed Two Stage Low NOx Goodman Gas Furnace - Downflow/Horizontal"
+        },
+        {
+          "sku": "GR9S800804CN",
+          "electrical": "115 V. 1 Phase 60 Hz",
+          "title": "80,000 BTU 80% AFUE 9-Speed Single Stage Goodman Gas Furnace - Upflow/Horizontal"
+        },
+        {
+          "sku": "GR9T800603AN",
+          "electrical": "115v 1 Phase 60 Hz",
+          "title": "60,000 BTU 80% AFUE 9-Speed Two Stage Goodman Gas Furnace - Upflow/Horizontal"
+        },
+        {
+          "sku": "GR9T800603AX",
+          "electrical": "115v 1 Phase 60 Hz",
+          "title": "60,000 BTU 80% AFUE 9-Speed Two Stage Goodman Low NOx Gas Furnace - Upflow/Horizontal"
+        },
+        {
+          "sku": "GR9S800804CX",
+          "electrical": "115 V. 1 Phase 60 Hz",
+          "title": "80,000 BTU 80% AFUE 9-Speed Single Stage Goodman Low NOx Gas Furnace - Upflow/Horizontal"
+        },
+        {
+          "sku": "GR9T800603BN",
+          "electrical": "115v 1 Phase 60 Hz",
+          "title": "60,000 BTU 80% AFUE 9-Speed Two Stage Goodman Gas Furnace - Upflow/Horizontal"
+        },
+        {
+          "sku": "GR9T800603BX",
+          "electrical": "115v 1 Phase 60 Hz",
+          "title": "60,000 BTU 80% AFUE 9-Speed Two Stage Goodman Low NOx Gas Furnace - Upflow/Horizontal"
+        },
+        {
+          "sku": "GR9S800805CN",
+          "electrical": "115 V. 1 Phase 60 Hz",
+          "title": "80,000 BTU 80% AFUE 9-Speed Single Stage Goodman Gas Furnace - Upflow/Horizontal"
+        },
+        {
+          "sku": "GD9T800603AX",
+          "electrical": "115 V. 1 Phase 60 Hz",
+          "title": "60,000 BTU 80% AFUE 9-Speed Two Stage Low NOx Goodman Gas Furnace - Downflow/Horizontal"
+        },
+        {
+          "sku": "GD9T800603AN",
+          "electrical": "115 V. 1 Phase 60 Hz",
+          "title": "60,000 BTU 80% AFUE 9-Speed Two Stage Goodman Gas Furnace - Downflow/Horizontal"
+        },
+        {
+          "sku": "GC9S801005CN",
+          "electrical": "115 V. 1 Phase 60 Hz",
+          "title": "100,000 BTU 80% AFUE 9-Speed Single Stage Goodman Gas Furnace - Downflow/Horizontal"
+        },
+        {
+          "sku": "GR9S800805CX",
+          "electrical": "115 V. 1 Phase 60 Hz",
+          "title": "80,000 BTU 80% AFUE 9-Speed Single Stage Goodman Low NOx Gas Furnace - Upflow/Horizontal"
+        },
+        {
+          "sku": "GD9T800603BX",
+          "electrical": "115 V. 1 Phase 60 Hz",
+          "title": "60,000 BTU 80% AFUE 9-Speed Two Stage Low NOx Goodman Gas Furnace - Downflow/Horizontal"
+        },
+        {
+          "sku": "GD9S800804BN",
+          "electrical": "115 V. 1 Phase 60 Hz",
+          "title": "80,000 BTU 80% AFUE 9-Speed Single Stage Goodman Gas Furnace - Downflow/Horizontal"
+        },
+        {
+          "sku": "GR9T800803BN",
+          "electrical": "115v 1 Phase 60 Hz",
+          "title": "80,000 BTU 80% AFUE 9-Speed Two Stage Goodman Gas Furnace - Upflow/Horizontal"
+        },
+        {
+          "sku": "GR9T800803BX",
+          "electrical": "115v 1 Phase 60 Hz",
+          "title": "80,000 BTU 80% AFUE 9-Speed Two Stage Goodman Low NOx Gas Furnace - Upflow/Horizontal"
+        },
+        {
+          "sku": "GD9S800804BX",
+          "electrical": "115 V. 1 Phase 60 Hz",
+          "title": "80,000 BTU 80% AFUE 9-Speed Single Stage Goodman Low NOx Gas Furnace - Downflow/Horizontal"
+        },
+        {
+          "sku": "GR9S801005CN",
+          "electrical": "115 V. 1 Phase 60 Hz",
+          "title": "100,000 BTU 80% AFUE 9-Speed Single Stage Goodman Gas Furnace - Upflow/Horizontal"
+        },
+        {
+          "sku": "GR9T800804BN",
+          "electrical": "115v 1 Phase 60 Hz",
+          "title": "80,000 BTU 80% AFUE 9-Speed Two Stage Goodman Gas Furnace - Upflow/Horizontal"
+        },
+        {
+          "sku": "GR9T800804BX",
+          "electrical": "115v 1 Phase 60 Hz",
+          "title": "80,000 BTU 80% AFUE 9-Speed Two Stage Goodman Low Nox Gas Furnace - Upflow/Horizontal"
+        },
+        {
+          "sku": "GD9S800805CX",
+          "electrical": "115 V. 1 Phase 60 Hz",
+          "title": "80,000 BTU 80% AFUE 9-Speed Single Stage Goodman Low NOx Gas Furnace - Downflow/Horizontal"
+        },
+        {
+          "sku": "GR9T800804CN",
+          "electrical": "115v 1 Phase 60 Hz",
+          "title": "80,000 BTU 80% AFUE 9-Speed Two Stage Goodman Gas Furnace - Upflow/Horizontal"
+        },
+        {
+          "sku": "GR9T800804CX",
+          "electrical": "115v 1 Phase 60 Hz",
+          "title": "80,000 BTU 80% AFUE 9-Speed Two Stage Goodman Low NOx Gas Furnace - Upflow/Horizontal"
+        },
+        {
+          "sku": "GR9T800805CN",
+          "electrical": "115v 1 Phase 60 Hz",
+          "title": "80,000 BTU 80% AFUE 9-Speed Two Stage Goodman Gas Furnace - Upflow/Horizontal"
+        },
+        {
+          "sku": "GR9T800805CX",
+          "electrical": "115v 1 Phase 60 Hz",
+          "title": "80,000 BTU 80% AFUE 9-Speed Two Stage Goodman Low NOx Gas Furnace - Upflow/Horizontal"
+        },
+        {
+          "sku": "GD9T800804BX",
+          "electrical": "115 V. 1 Phase 60 Hz",
+          "title": "80,000 BTU 80% AFUE 9-Speed Two Stage Low NOx Goodman Gas Furnace - Downflow/Horizontal"
+        },
+        {
+          "sku": "GR9S801005CX",
+          "electrical": "115 V. 1 Phase 60 Hz",
+          "title": "100,000 BTU 80% AFUE 9-Speed Single Stage Goodman Low NOx Gas Furnace - Upflow/Horizontal"
+        },
+        {
+          "sku": "GR9S920403AN",
+          "electrical": "115 V. 1 Phase 60 Hz",
+          "title": "40,000 BTU 92% AFUE 9-Speed Single Stage Goodman Gas Furnace - Upflow/Horizontal"
+        }
+      ]
+    },
+    {
+      "category": "Air Handlers",
+      "models": [
+        {
+          "sku": "ACSF24LN1605",
+          "electrical": "208/230v 1 Phase 60 Hz",
+          "title": "2 Ton 24,000 BTU Goodman Ceiling Mount Air Handler"
+        },
+        {
+          "sku": "ACSF30LN1605",
+          "electrical": "208/230v 1 Phase 60 Hz",
+          "title": "2.5 Ton 30,000 BTU Goodman Ceiling Mount Air Handler"
+        },
+        {
+          "sku": "ACSF24LN1608",
+          "electrical": "208/230v 1 Phase 60 Hz",
+          "title": "2 Ton 24,000 BTU Goodman Ceiling Mount Air Handler"
+        },
+        {
+          "sku": "ACSF30LN1606",
+          "electrical": "208/230v 1 Phase 60 Hz",
+          "title": "2.5 Ton 30,000 BTU Goodman Ceiling Mount Air Handler"
+        },
+        {
+          "sku": "ACSF30LN1608",
+          "electrical": "208/230v 1 Phase 60 Hz",
+          "title": "2.5 Ton 30,000 BTU Goodman Ceiling Mount Air Handler"
+        },
+        {
+          "sku": "AWUF310516",
+          "electrical": "208-240 1 Phase",
+          "title": "2.5 Ton Wall Mounted Goodman Air Handler w/ 5kW Heat"
+        },
+        {
+          "sku": "AWUF321016",
+          "electrical": "208-240 1 Phase",
+          "title": "2.5 Ton Wall Mounted Goodman Air Handler w/ 10kW Heat"
+        },
+        {
+          "sku": "AWSF30LU1608",
+          "electrical": "208-230V Single Phase 60 Hz",
+          "title": "2.5 Ton Wall Mounted Goodman Air Handler w/ 8kW Heat"
+        },
+        {
+          "sku": "AWST30LU1405",
+          "electrical": "208-230 V Single Phase 60 Hz",
+          "title": "2.5 Ton Wall Mounted Goodman Air Handler w/ 5kW Heat"
+        },
+        {
+          "sku": "AWST18SU1303",
+          "electrical": "208/230v Single Phase 60 Hz",
+          "title": "1.5 Ton Wall Mounted Goodman Air Handler w/ 3kW Heat - R32"
+        },
+        {
+          "sku": "AWST18SU1305",
+          "electrical": "208/230v Single Phase 60 Hz",
+          "title": "1.5 Ton Wall Mounted Goodman Air Handler w/ 5kW Heat - R32"
+        },
+        {
+          "sku": "MBVC1201AA-1",
+          "electrical": "unknown",
+          "title": "1.5 to 3 Ton 17.5\" Wide Variable Speed Goodman Modular Blower with Optional Electric Heater"
+        },
+        {
+          "sku": "AWST30LU1410",
+          "electrical": "208-230 V Single Phase 60 Hz",
+          "title": "2.5 Ton Wall Mounted Goodman Air Handler w/ 10kW Heat"
+        },
+        {
+          "sku": "AWST18SU1308",
+          "electrical": "208/230v Single Phase 60 Hz",
+          "title": "1.5 Ton Wall Mounted Goodman Air Handler w/ 8kW Heat - R32"
+        },
+        {
+          "sku": "AWST24SU1305",
+          "electrical": "208/230v Single Phase 60 Hz",
+          "title": "2 Ton Wall Mounted Goodman Air Handler w/ 5kW Heat - R32"
+        },
+        {
+          "sku": "ACST18MU1305",
+          "electrical": "208/230v 1 Phase 60 Hz",
+          "title": "1.5 Ton Goodman Ceiling Mount Air Handler with 5kW Heat - R32"
+        },
+        {
+          "sku": "AWST24SU1308",
+          "electrical": "208/230v Single Phase 60 Hz",
+          "title": "2 Ton Wall Mounted Goodman Air Handler w/ 8kW Heat - R32"
+        },
+        {
+          "sku": "AWST24SU1310",
+          "electrical": "208/230v Single Phase 60 Hz",
+          "title": "2 Ton Wall Mounted Goodman Air Handler w/ 10kW Heat - R32"
+        },
+        {
+          "sku": "ACST18MU1308",
+          "electrical": "208/230v 1 Phase 60 Hz",
+          "title": "1.5 Ton Goodman Ceiling Mount Air Handler with 8kW Heat - R32"
+        },
+        {
+          "sku": "MBVC1601AA-1",
+          "electrical": "unknown",
+          "title": "3.5 to 4 Ton 21\" Wide Variable Speed Goodman Modular Blower with Optional Electric Heater"
+        },
+        {
+          "sku": "MBVC2000AA-1",
+          "electrical": "unknown",
+          "title": "4 to 5 Ton 24.5\" Wide Variable Speed Goodman Modular Blower with Optional Electric Heater"
+        },
+        {
+          "sku": "ACST24LU1305",
+          "electrical": "208/230v 1 Phase 60 Hz",
+          "title": "2 Ton Goodman Ceiling Mount Air Handler with 5kW Heat - R32"
+        },
+        {
+          "sku": "ACST30LU1305",
+          "electrical": "208/230v 1 Phase 60 Hz",
+          "title": "2.5 Ton Goodman Ceiling Mount Air Handler with 5kW Heat - R32"
+        },
+        {
+          "sku": "ACST24LU1306",
+          "electrical": "208/230v 1 Phase 60 Hz",
+          "title": "2 Ton Goodman Ceiling Mount Air Handler with 6kW Heat - R32"
+        },
+        {
+          "sku": "ACST24LU1308",
+          "electrical": "208/230v 1 Phase 60 Hz",
+          "title": "2 Ton Goodman Ceiling Mount Air Handler with 8kW Heat - R32"
+        },
+        {
+          "sku": "ACST30LU1306",
+          "electrical": "208/230v 1 Phase 60 Hz",
+          "title": "2.5 Ton Goodman Ceiling Mount Air Handler with 6kW Heat - R32"
+        },
+        {
+          "sku": "ACST24LU1310",
+          "electrical": "208/230v 1 Phase 60 Hz",
+          "title": "2 Ton Goodman Ceiling Mount Air Handler with 10kW Heat - R32"
+        },
+        {
+          "sku": "ACST30LU1308",
+          "electrical": "208/230v 1 Phase 60 Hz",
+          "title": "2.5 Ton Goodman Ceiling Mount Air Handler with 8kW Heat - R32"
+        },
+        {
+          "sku": "AWST36LU1305",
+          "electrical": "208/230v Single Phase 60 Hz",
+          "title": "3 Ton Wall Mounted Goodman Air Handler w/ 5kW Heat - R32"
+        },
+        {
+          "sku": "ACST30LU1310",
+          "electrical": "208/230v 1 Phase 60 Hz",
+          "title": "2.5 Ton Goodman Ceiling Mount Air Handler with 10kW Heat - R32"
+        },
+        {
+          "sku": "AWST36LU1308",
+          "electrical": "208/230v Single Phase 60 Hz",
+          "title": "3 Ton Wall Mounted Goodman Air Handler w/ 8kW Heat - R32"
+        },
+        {
+          "sku": "AWST36LU1310",
+          "electrical": "208/230v Single Phase 60 Hz",
+          "title": "3 Ton Wall Mounted Goodman Air Handler w/ 10kW Heat - R32"
+        },
+        {
+          "sku": "AWST30LU1305",
+          "electrical": "208/230v Single Phase 60 Hz",
+          "title": "2.5 Ton Wall Mounted Goodman Air Handler w/ 5kW Heat - R32"
+        },
+        {
+          "sku": "AWST30LU1308",
+          "electrical": "208/230v Single Phase 60 Hz",
+          "title": "2.5 Ton Wall Mounted Goodman Air Handler w/ 8kW Heat - R32"
+        },
+        {
+          "sku": "AVPTC25B14",
+          "electrical": "208/240 V, 1 Phase, 60 Hz",
+          "title": "2 Ton Multi-Positional Variable Speed Goodman Air Handler - Open Box"
+        },
+        {
+          "sku": "AWST30LU1310",
+          "electrical": "208/230v Single Phase 60 Hz",
+          "title": "2.5 Ton Wall Mounted Goodman Air Handler w/ 10kW Heat - R32"
+        },
+        {
+          "sku": "AMST30BU1400",
+          "electrical": "208/240v 1 Phase 60Hz",
+          "title": "2.5 Ton Multi-Positional Goodman Air Handler"
+        },
+        {
+          "sku": "AMST24BU1400",
+          "electrical": "208/240v 1 Phase 60Hz",
+          "title": "2 Ton Multi-Positional Goodman Air Handler"
+        },
+        {
+          "sku": "AVPTC29B14",
+          "electrical": "208/240 V, 1 Phase, 60 Hz",
+          "title": "2.5 Ton Multi-Positional Variable Speed Goodman Air Handler - Open Box"
+        },
+        {
+          "sku": "AVPTC33C14",
+          "electrical": "208/240 V, 1 Phase, 60 Hz",
+          "title": "2 Ton Multi-Positional Variable Speed Goodman Air Handler - Open Box"
+        },
+        {
+          "sku": "AMST48DU1400",
+          "electrical": "208/240v 1 Phase 60Hz",
+          "title": "4 Ton Multi-Positional Goodman Air Handler - Open Box"
+        },
+        {
+          "sku": "AVPTC37B14",
+          "electrical": "208/240 V, 1 Phase, 60 Hz",
+          "title": "3 Ton Multi-Positional Variable Speed Goodman Air Handler - Open Box"
+        },
+        {
+          "sku": "AMST42CU1400",
+          "electrical": "208/240v 1 Phase 60Hz",
+          "title": "3.5 Ton Multi-Positional Goodman Air Handler"
+        },
+        {
+          "sku": "ASPT49D14",
+          "electrical": "208/240 V, 1 Phase, 60 Hz",
+          "title": "4 Ton Multi-Positional Goodman Air Handler - Open Box"
+        },
+        {
+          "sku": "AVPTC37C14",
+          "electrical": "208/240 V, 1 Phase, 60 Hz",
+          "title": "3 Ton Multi-Positional Variable Speed Goodman Air Handler - Open Box"
+        },
+        {
+          "sku": "AVPTC39C14",
+          "electrical": "208/240 V, 1 Phase, 60 Hz",
+          "title": "3 Ton Multi-Positional Variable Speed Goodman Air Handler - Open Box"
+        },
+        {
+          "sku": "AVPTC37D14",
+          "electrical": "208/240 V, 1 Phase, 60 Hz",
+          "title": "3 Ton Multi-Positional Variable Speed Goodman Air Handler - Open Box"
+        },
+        {
+          "sku": "AMST24BU1300",
+          "electrical": "208/240v 1 Phase 60Hz",
+          "title": "2 Ton Multi-Positional Goodman Air Handler - R32"
+        },
+        {
+          "sku": "AMST30BU1300",
+          "electrical": "208/240v 1 Phase 60Hz",
+          "title": "2.5 Ton Multi-Positional Goodman Air Handler - R32"
+        },
+        {
+          "sku": "AMST60DU1400",
+          "electrical": "208/240v 1 Phase 60Hz",
+          "title": "5 Ton Multi-Positional Goodman Air Handler"
+        },
+        {
+          "sku": "AVPTC49D14",
+          "electrical": "208/240 V, 1 Phase, 60 Hz",
+          "title": "4 Ton Multi-Positional Variable Speed Goodman Air Handler"
+        },
+        {
+          "sku": "AMST36CU1300",
+          "electrical": "208/240v 1 Phase 60Hz",
+          "title": "3 Ton Multi-Positional Goodman Air Handler - R32"
+        },
+        {
+          "sku": "AMVT30BP1400",
+          "electrical": "208/240v 1 Phase 60Hz",
+          "title": "2.5 Ton Multi-Positional Variable Speed Goodman Air Handler"
+        },
+        {
+          "sku": "AMVE48DP1400",
+          "electrical": "208/230 V 1 Phase 60 Hz",
+          "title": "4 Ton Multi-Positional Variable Speed Communicating Goodman Air Handler - Open Box"
+        },
+        {
+          "sku": "AMST42CU1300",
+          "electrical": "208/240v 1 Phase 60Hz",
+          "title": "3.5 Ton Multi-Positional Goodman Air Handler - R32"
+        },
+        {
+          "sku": "AMVT36BP1400",
+          "electrical": "208/240v 1 Phase 60Hz",
+          "title": "3 Ton Multi-Positional Variable Speed Goodman Air Handler"
+        }
+      ]
+    }
+  ],
+  "Trane": [
+    {
+      "category": "Air Conditioning Systems",
+      "models": [
+        {
+          "sku": "A5AC3018A1",
+          "electrical": "208/230v 1 Phase 60Hz",
+          "title": "1.5 Ton 13.4 SEER2 Trane Air Conditioner Condenser - R454B Single Stage - RT Series"
+        },
+        {
+          "sku": "A5AC3024A1",
+          "electrical": "208/230v 1 Phase 60Hz",
+          "title": "2 Ton 13.4 SEER2 Trane Air Conditioner Condenser - R454B Single Stage - RT Series"
+        },
+        {
+          "sku": "A5AC3030A1",
+          "electrical": "208/230v 1 Phase 60Hz",
+          "title": "2.5 Ton 13.4 SEER2 Trane Air Conditioner Condenser - R454B Single Stage - RT Series"
+        },
+        {
+          "sku": "A5AC4018A1",
+          "electrical": "208/230v 1 Phase 60Hz",
+          "title": "1.5 Ton 14.3 SEER2 Trane Air Conditioner Condenser - R454B Single Stage - RT Series"
+        },
+        {
+          "sku": "A5AC4024A1",
+          "electrical": "208/230v 1 Phase 60Hz",
+          "title": "2 Ton 14.3 SEER2 Trane Air Conditioner Condenser - R454B Single Stage - RT Series"
+        },
+        {
+          "sku": "A5AC3036A1",
+          "electrical": "208/230v 1 Phase 60Hz",
+          "title": "3 Ton 13.4 SEER2 Trane Air Conditioner Condenser - R454B Single Stage - RT Series"
+        },
+        {
+          "sku": "A5AC4030A1",
+          "electrical": "208/230v 1 Phase 60Hz",
+          "title": "2.5 Ton 14.3 SEER2 Trane Air Conditioner Condenser - R454B Single Stage - RT Series"
+        },
+        {
+          "sku": "A5AC5018A1",
+          "electrical": "208/230v 1 Phase 60Hz",
+          "title": "1.5 Ton 15.2 SEER2 Trane Air Conditioner Condenser - R454B Single Stage - RT Series"
+        },
+        {
+          "sku": "A5AC4036A1",
+          "electrical": "208/230v 1 Phase 60Hz",
+          "title": "3 Ton 14.3 SEER2 Trane Air Conditioner Condenser - R454B Single Stage - RT Series"
+        },
+        {
+          "sku": "A5AC3042A1",
+          "electrical": "208/230v 1 Phase 60Hz",
+          "title": "3.5 Ton 13.4 SEER2 Trane Air Conditioner Condenser - R454B Single Stage - RT Series"
+        },
+        {
+          "sku": "A5AC5024A1",
+          "electrical": "208/230v 1 Phase 60Hz",
+          "title": "2 Ton 15.2 SEER2 Trane Air Conditioner Condenser - R454B Single Stage - RT Series"
+        },
+        {
+          "sku": "A5AC5030A1",
+          "electrical": "208/230v 1 Phase 60Hz",
+          "title": "2.5 Ton 15.2 SEER2 Trane Air Conditioner Condenser - R454B Single Stage - RT Series"
+        },
+        {
+          "sku": "A5AC3048A1",
+          "electrical": "208/230v 1 Phase 60Hz",
+          "title": "4 Ton 13.4 SEER2 Trane Air Conditioner Condenser - R454B Single Stage - RT Series"
+        },
+        {
+          "sku": "A5AC4042A1",
+          "electrical": "208/230v 1 Phase 60Hz",
+          "title": "3.5 Ton 14.3 SEER2 Trane Air Conditioner Condenser - R454B Single Stage - RT Series"
+        },
+        {
+          "sku": "A5AC5036A1",
+          "electrical": "208/230v 1 Phase 60Hz",
+          "title": "3 Ton 15.2 SEER2 Trane Air Conditioner Condenser - R454B Single Stage - RT Series"
+        },
+        {
+          "sku": "A5AC4048A1",
+          "electrical": "208/230v 1 Phase 60Hz",
+          "title": "4 Ton 14.3 SEER2 Trane Air Conditioner Condenser - R454B Single Stage - RT Series"
+        },
+        {
+          "sku": "A5AC3060A1",
+          "electrical": "208/230v 1 Phase 60Hz",
+          "title": "5 Ton 13.4 SEER2 Trane Air Conditioner Condenser - R454B Single Stage - RT Series"
+        },
+        {
+          "sku": "A5AC5042A1",
+          "electrical": "208/230v 1 Phase 60Hz",
+          "title": "3.5 Ton 15.2 SEER2 Trane Air Conditioner Condenser - R454B Single Stage - RT Series"
+        },
+        {
+          "sku": "A5AC4060A1",
+          "electrical": "208/230v 1 Phase 60Hz",
+          "title": "5 Ton 14.3 SEER2 Trane Air Conditioner Condenser - R454B Single Stage - RT Series"
+        },
+        {
+          "sku": "A5AC5048A1",
+          "electrical": "208/230v 1 Phase 60Hz",
+          "title": "4 Ton 15.2 SEER2 Trane Air Conditioner Condenser - R454B Single Stage - RT Series"
+        },
+        {
+          "sku": "A5AC5060A1",
+          "electrical": "208/230v 1 Phase 60Hz",
+          "title": "5 Ton 15.2 SEER2 Trane Air Conditioner Condenser - R454B Single Stage - RT Series"
+        }
+      ]
+    },
+    {
+      "category": "Heat Pumps",
+      "models": [
+        {
+          "sku": "A5HP4018A1",
+          "electrical": "208/230v 1 Phase 60Hz",
+          "title": "1.5 Ton 14.3 SEER2 Trane Heat Pump Condenser - R454B Single Stage - RT Series"
+        },
+        {
+          "sku": "A5HP4024A1",
+          "electrical": "208/230v 1 Phase 60Hz",
+          "title": "2 Ton 14.3 SEER2 Trane Heat Pump Condenser - R454B Single Stage - RT Series"
+        },
+        {
+          "sku": "E4HL5018A1000A",
+          "electrical": "208/230v 1 Phase 60Hz",
+          "title": "Trane 1.5 Ton 15.2 SEER2 Heat Pump Condenser - R410A Inverter - RT Series"
+        },
+        {
+          "sku": "A5HL5024A1000A",
+          "electrical": "208/230v 1 Phase 60Hz",
+          "title": "2 Ton 15.2 SEER2 Trane Heat Pump Condenser - R454B Inverter - RT Series"
+        },
+        {
+          "sku": "A5HP4030A1",
+          "electrical": "208/230v 1 Phase 60Hz",
+          "title": "2.5 Ton 14.3 SEER2 Trane Heat Pump Condenser - R454B Single Stage - RT Series"
+        },
+        {
+          "sku": "A5HP5018A1",
+          "electrical": "208/230v 1 Phase 60Hz",
+          "title": "1.5 Ton 15.2 SEER2 Trane Heat Pump Condenser - R454B Single Stage - RT Series"
+        },
+        {
+          "sku": "A5HP5024A1",
+          "electrical": "208/230v 1 Phase 60Hz",
+          "title": "2 Ton 15.2 SEER2 Trane Heat Pump Condenser - R454B Single Stage - RT Series"
+        },
+        {
+          "sku": "A5HP4036A1",
+          "electrical": "208/230v 1 Phase 60Hz",
+          "title": "3 Ton 14.3 SEER2 Trane Heat Pump Condenser - R454B Single Stage - RT Series"
+        },
+        {
+          "sku": "A5HP5030A1",
+          "electrical": "208/230v 1 Phase 60Hz",
+          "title": "2.5 Ton 15.2 SEER2 Trane Heat Pump Condenser - R454B Single Stage - RT Series"
+        },
+        {
+          "sku": "A5HL5036A1000A",
+          "electrical": "208/230v 1 Phase 60Hz",
+          "title": "3 Ton 15.2 SEER2 Trane Heat Pump Condenser - R454B Inverter - RT Series"
+        },
+        {
+          "sku": "A5HP4042A1",
+          "electrical": "208/230v 1 Phase 60Hz",
+          "title": "3.5 Ton 14.3 SEER2 Trane Heat Pump Condenser - R454B Single Stage - RT Series"
+        },
+        {
+          "sku": "A5HP5036A1",
+          "electrical": "208/230v 1 Phase 60Hz",
+          "title": "3 Ton 15.2 SEER2 Trane Heat Pump Condenser - R454B Single Stage - RT Series"
+        },
+        {
+          "sku": "A5HP4048A1",
+          "electrical": "208/230v 1 Phase 60Hz",
+          "title": "4 Ton 14.3 SEER2 Trane Heat Pump Condenser - R454B Single Stage - RT Series"
+        },
+        {
+          "sku": "A5HP5042A1",
+          "electrical": "208/230v 1 Phase 60Hz",
+          "title": "3.5 Ton 15.2 SEER2 Trane Heat Pump Condenser - R454B Single Stage - RT Series"
+        },
+        {
+          "sku": "A5HL5048A1000A",
+          "electrical": "208/230v 1 Phase 60Hz",
+          "title": "4 Ton 15.2 SEER2 Trane Heat Pump Condenser - R454B Inverter - RT Series"
+        },
+        {
+          "sku": "A5HP5048A1",
+          "electrical": "208/230v 1 Phase 60Hz",
+          "title": "4 Ton 15.2 SEER2 Trane Heat Pump Condenser - R454B Single Stage - RT Series"
+        },
+        {
+          "sku": "A5HP4060A1",
+          "electrical": "208/230v 1 Phase 60Hz",
+          "title": "5 Ton 14.3 SEER2 Trane Heat Pump Condenser - R454B Single Stage - RT Series"
+        },
+        {
+          "sku": "A5HL5060A1000A",
+          "electrical": "208/230v 1 Phase 60Hz",
+          "title": "5 Ton 15.2 SEER2 Trane Heat Pump Condenser - R454B Inverter - RT Series"
+        },
+        {
+          "sku": "A5HP5060A1",
+          "electrical": "208/230v 1 Phase 60Hz",
+          "title": "5 Ton 15.2 SEER2 Trane Heat Pump Condenser - R454B Single Stage - RT Series"
+        }
+      ]
+    },
+    {
+      "category": "Furnaces",
+      "models": [
+        {
+          "sku": "A801X040AM3SD",
+          "electrical": "120v 1 Phase 60Hz",
+          "title": "40,000 BTU 80% AFUE Multi Speed RunTru by Trane Gas Furnace - Multi-Positional"
+        },
+        {
+          "sku": "A801X040BM2SD",
+          "electrical": "120v 1 Phase 60Hz",
+          "title": "40,000 BTU 80% AFUE Multi Speed Trane Gas Furnace - Multi-Positional - RT Series"
+        },
+        {
+          "sku": "A801X120DM5TA",
+          "electrical": "120v 1 Phase 60Hz",
+          "title": "120,000 BTU 80% AFUE Multi Speed Trane Low NOx Gas Furnace - Multi-Positional - RT Series"
+        },
+        {
+          "sku": "A801X060BM4SD",
+          "electrical": "120v 1 Phase 60Hz",
+          "title": "60,000 BTU 80% AFUE Multi Speed Trane Gas Furnace - Multi-Positional - RT Series"
+        },
+        {
+          "sku": "A801X080BM4SD",
+          "electrical": "120v 1 Phase 60Hz",
+          "title": "80,000 BTU 80% AFUE Multi Speed Trane Gas Furnace - Multi-Positional - RT Series"
+        },
+        {
+          "sku": "A801X080CM5SD",
+          "electrical": "120v 1 Phase 60Hz",
+          "title": "80,000 BTU 80% AFUE Multi Speed Trane Gas Furnace - Multi-Positional - RT Series"
+        },
+        {
+          "sku": "A801X100CM5SD",
+          "electrical": "120v 1 Phase 60Hz",
+          "title": "100,000 BTU 80% AFUE Multi Speed Trane Gas Furnace - Multi-Positional - RT Series"
+        }
+      ]
+    },
+    {
+      "category": "Air Handlers",
+      "models": [
+        {
+          "sku": "TMM4B0A18S21SA",
+          "electrical": "208/230v 1 Phase 60Hz",
+          "title": "1.5 Ton Wall-Mounted Trane Air Handler - RT Series"
+        },
+        {
+          "sku": "A4AH4E24A1B6",
+          "electrical": "208/230v 1 Phase 60Hz",
+          "title": "Trane 2 Ton Multi-Positional Central Air Handler - 17.5\" Width - R410A - RT Series"
+        },
+        {
+          "sku": "TMM4B0A24S21SA",
+          "electrical": "208/230v 1 Phase 60Hz",
+          "title": "2 Ton Wall-Mounted Trane Air Handler - RT Series"
+        },
+        {
+          "sku": "A4AH4E36A1C3",
+          "electrical": "208/230v 1 Phase 60Hz",
+          "title": "Trane 3 Ton Multi-Positional Central Air Handler - 24.5\" Width - R410A - RT Series"
+        },
+        {
+          "sku": "TMM4B0B30S21SA",
+          "electrical": "208/230v 1 Phase 60Hz",
+          "title": "2.5 Ton Wall-Mounted Trane Air Handler - RT Series"
+        },
+        {
+          "sku": "5TMM5B0B30M21S",
+          "electrical": "208/230v 1 Phase 60Hz",
+          "title": "2.5 Ton Wall-Mounted Trane Air Handler - RT Series - R454B"
+        },
+        {
+          "sku": "TMM5B0A24M21S",
+          "electrical": "208/230v 1 Phase 60Hz",
+          "title": "2 Ton Wall-Mounted Trane Air Handler - RT Series"
+        },
+        {
+          "sku": "E4AH5E36A1J30A",
+          "electrical": "208/230v 1 Phase 60Hz",
+          "title": "Trane 3 Ton Inverter System Central Air Handler - 21\" Width - R410A - RT Series"
+        },
+        {
+          "sku": "A4AH5V30A1B3",
+          "electrical": "208/230v 1 Phase 60Hz",
+          "title": "Trane 2.5 Ton Multi-Positional Variable Speed Central Air Handler - 21\" Width - R410A - RT Series"
+        },
+        {
+          "sku": "A4AH4E48B1C3",
+          "electrical": "208/230v 1 Phase 60Hz",
+          "title": "Trane 4 Ton Multi-Positional Central Air Handler - 24.5\" Width - R410A - RT Series"
+        },
+        {
+          "sku": "5TMM5B0C36M31S",
+          "electrical": "208/230v 1 Phase 60Hz",
+          "title": "3 Ton Wall-Mounted Trane Air Handler - RT Series - R454B"
+        },
+        {
+          "sku": "TMM4B0B36S31SA",
+          "electrical": "208/230v 1 Phase 60Hz",
+          "title": "3 Ton Wall-Mounted Trane Air Handler - RT Series"
+        },
+        {
+          "sku": "TMM5B0B30M21S",
+          "electrical": "208/230v 1 Phase 60Hz",
+          "title": "2.5 Ton Wall-Mounted Trane Air Handler - RT Series"
+        },
+        {
+          "sku": "A4AH5V36A1C3",
+          "electrical": "208/230v 1 Phase 60Hz",
+          "title": "Trane 3 Ton Multi-Positional Variable Speed Central Air Handler - 24.5\" Width - R410A - RT Series"
+        },
+        {
+          "sku": "A4AH4E60B1C3",
+          "electrical": "208/230v 1 Phase 60Hz",
+          "title": "Trane 5 Ton Multi-Positional Central Air Handler - 24.5\" Width - R410A - RT Series"
+        },
+        {
+          "sku": "TMM5B0B36M31S",
+          "electrical": "208/230v 1 Phase 60Hz",
+          "title": "3 Ton Wall-Mounted Trane Air Handler - RT Series"
+        },
+        {
+          "sku": "A5AHC002A1B3",
+          "electrical": "208/230v 1 Phase 60Hz",
+          "title": "1.5 - 2 Ton Multi-Positional High Efficiency Trane Air Handler - RT Series - R454B"
+        },
+        {
+          "sku": "A5AHC003A1B3",
+          "electrical": "208/230v 1 Phase 60Hz",
+          "title": "1.5 - 2.5 Ton Multi-Positional High Efficiency Trane Air Handler - RT Series - R454B"
+        },
+        {
+          "sku": "A5AHC004A1D3",
+          "electrical": "208/230v 1 Phase 60Hz",
+          "title": "2 - 3.5 Ton Multi-Positional High Efficiency Trane Air Handler - RT Series - R454B"
+        }
+      ]
+    }
+  ],
+  "Bosch": [
+    {
+      "category": "Heat Pumps",
+      "models": [
+        {
+          "sku": "BOVA-24HDN1-M15G",
+          "electrical": "208/230v 1 Phase 60Hz",
+          "title": "Bosch 2 Ton 14.3 SEER2 Heat Pump Condenser - R410A Inverter - IDS Light Series"
+        },
+        {
+          "sku": "BOVA-24RXB-M15S",
+          "electrical": "208/230v 1 Phase 60Hz",
+          "title": "2 Ton 15 SEER2 Bosch Heat Pump Inverter Condenser R454B - IDS Light Series"
+        },
+        {
+          "sku": "BOVA-36RXB-M15S",
+          "electrical": "208/230v 1 Phase 60Hz",
+          "title": "3 Ton 15 SEER2 Bosch Heat Pump Inverter Condenser R454B - IDS Light Series"
+        },
+        {
+          "sku": "BOVA-60RXB-M15S",
+          "electrical": "208/230v 1 Phase 60Hz",
+          "title": "5 Ton 15 SEER2 Bosch Heat Pump Inverter Condenser R454B - IDS Light Series"
+        },
+        {
+          "sku": "BOVA-36RTB-M20S",
+          "electrical": "208/230v 1 Phase 60Hz",
+          "title": "3 Ton 20 SEER2 Bosch Heat Pump Inverter Condenser R454B - IDS Light Series"
+        },
+        {
+          "sku": "BOVA-60RTB-M20S",
+          "electrical": "208/230v 1 Phase 60Hz",
+          "title": "5 Ton 20 SEER2 Bosch Heat Pump Inverter Condenser R454B - IDS Light Series"
+        }
+      ]
+    },
+    {
+      "category": "Air Handlers",
+      "models": [
+        {
+          "sku": "BVA-24WN1-M15",
+          "electrical": "208/230v 1 Phase 60Hz",
+          "title": "2 Ton Multi-Positional Bosch Air Handler - BVA 15 Series"
+        },
+        {
+          "sku": "BVA-36WN1-M15",
+          "electrical": "208/230v 1 Phase 60Hz",
+          "title": "3 Ton Multi-Positional Bosch Air Handler - BVA 15 Series"
+        },
+        {
+          "sku": "BIVA-24RXB-M15X",
+          "electrical": "208/230v 1 Phase 60Hz",
+          "title": "2 Ton Multi-Positional Bosch Air Handler - R454B - BIVA 15 Series"
+        },
+        {
+          "sku": "BVA-48WN1-M15",
+          "electrical": "208/230v 1 Phase 60Hz",
+          "title": "4 Ton Multi-Positional Bosch Air Handler - BVA 15 Series"
+        },
+        {
+          "sku": "BIVA-36RXB-M15X",
+          "electrical": "208/230v 1 Phase 60Hz",
+          "title": "3 Ton Multi-Positional Bosch Air Handler - R454B - BIVA 15 Series"
+        }
+      ]
+    }
+  ],
+  "MRCOOL": [
+    {
+      "category": "Heat Pumps",
+      "models": [
+        {
+          "sku": "MDUO18048060",
+          "electrical": "240v 1 Phase",
+          "title": "4 Ton MRCOOL Universal 17 SEER2 Central Ducted Heat Pump Condenser - R410A Inverter"
+        }
+      ]
+    }
+  ],
+  "Daikin": [
+    {
+      "category": "Heat Pumps",
+      "models": [
+        {
+          "sku": "RZQ48TBVJUA",
+          "electrical": "unknown",
+          "title": "Daikin Skyair 4 Ton 18 SEER2 Heat Pump Condenser - R410A Inverter"
+        }
+      ]
+    }
+  ],
+  "iAIRE": [
+    {
+      "category": "Heat Pumps",
+      "models": [
+        {
+          "sku": "SHRPZ-240G00A000-0",
+          "electrical": "208 / 230 Volts Single Phase 60 Hz",
+          "title": "Solar Air Conditioner Heat Pump 2 Ton 208/230 V Single Phase by iAIRE"
+        },
+        {
+          "sku": "SHRPZ-360G00A000-0",
+          "electrical": "208 / 230 Volts Single Phase 60 Hz",
+          "title": "Solar Air Conditioner Heat Pump 3 Ton 208/230 V Single Phase by iAIRE"
+        }
+      ]
+    }
+  ],
+  "Rheem": [
+    {
+      "category": "Water Heaters and Boilers",
+      "models": [
+        {
+          "sku": "RTEX-06",
+          "electrical": "220 V. 1 Phase 60 Hz",
+          "title": "Rheem 5.5kW Electric Instantaneous Water Heater"
+        },
+        {
+          "sku": "PROG40-38N RH62",
+          "electrical": "240 V. 1 Phase 60 Hz",
+          "title": "Rheem Professional Classic Tall  Atmospheric Residential Natural Gas Water Heater 38,000 BTU, 40 Gal."
+        },
+        {
+          "sku": "PROE40 T2 RH95",
+          "electrical": "240 V. 1 Phase 60 Hz",
+          "title": "Rheem Professional Classic Electric Water Heater: 40 Gal., Tall, 240-VAC, 4500-Watt"
+        },
+        {
+          "sku": "PROE50 T2 RH95",
+          "electrical": "240 V. 1 Phase 60 Hz",
+          "title": "Rheem Professional Classic Electric Water Heater: 50 Gal., Tall, 240-VAC, 4500-Watt"
+        },
+        {
+          "sku": "PROG40-38U RH62 EC1-1",
+          "electrical": "unknown",
+          "title": "Rheem Professional Classic 40 Gal Tall 38,000 BTU Natural Gas Water Heater with 6-Year Tank Warranty - Ultra Low Nox California Use Only"
+        },
+        {
+          "sku": "PROG50-38U RH60 EC1-1",
+          "electrical": "unknown",
+          "title": "Rheem Professional Classic 50 Gal Tall 38,000 BTU Natural Gas Water Heater with 6-Year Tank Warranty - Ultra Low Nox California Use Only"
+        },
+        {
+          "sku": "PROG29-30U RH63 EC1-1",
+          "electrical": "unknown",
+          "title": "Rheem Professional Classic Tall Ultra Low Residential Natural Gas Water Heater 30,000 BTU, 29 Gal - Ultra Low Nox California Use Only"
+        },
+        {
+          "sku": "PROE50 T2 RH CG (4500W)",
+          "electrical": "240 V. 1 Phase 60 Hz",
+          "title": "Rheem Professional Classic 50 gal. Tall 6-Year 4500-Watt Electric Water Heater - WA OR Only"
+        },
+        {
+          "sku": "PROG50-38N RH60",
+          "electrical": "240 V. 1 Phase 60 Hz",
+          "title": "Rheem Professional Classic Tall  Atmospheric Residential Natural Gas Water Heater 38,000 BTU, 50 Gal."
+        },
+        {
+          "sku": "PROG40-40N RH67 PV",
+          "electrical": "240 V. 1 Phase 60 Hz",
+          "title": "Rheem Professional  Classic Tall Power Vent Residential Natural Gas Water Heater 40,000 BTU, 40 Gal."
+        },
+        {
+          "sku": "PROG50-42N RH67 PV",
+          "electrical": "240 V. 1 Phase 60 Hz",
+          "title": "Rheem Professional Classic Power Vent Natural Gas Water Heater 42,000 BTU, 50 Gal."
+        }
+      ]
+    }
+  ],
+  "Eemax": [
+    {
+      "category": "Water Heaters and Boilers",
+      "models": [
+        {
+          "sku": "ESPEX4208",
+          "electrical": "208V AC, 60Hz",
+          "title": "Eemax LavAdvantage Series Undersink Electric Tankless Water Heater"
+        }
+      ]
+    }
+  ],
+  "Navien": [
+    {
+      "category": "Water Heaters and Boilers",
+      "models": [
+        {
+          "sku": "NNPE210SNG",
+          "electrical": "120V AC, 60Hz",
+          "title": "Navien NPE-S Series 180BTU Condensing Tankless Water Heater"
+        }
+      ]
+    }
+  ],
+  "Triangle Tube": [
+    {
+      "category": "Water Heaters and Boilers",
+      "models": [
+        {
+          "sku": "SMART30",
+          "electrical": "unknown",
+          "title": "Triangle Tube 87,000 BTU Indirect Fired Water Heater - SMART30"
+        },
+        {
+          "sku": "SMART40",
+          "electrical": "unknown",
+          "title": "Triangle Tube Smart 40 112,000 BTU Indirect Fired Water Heater - SMART40"
+        },
+        {
+          "sku": "SMART50",
+          "electrical": "unknown",
+          "title": "Triangle Tube Smart 50 140,000 BTU Indirect Fired Water Heater - SMART50"
+        },
+        {
+          "sku": "SMART60",
+          "electrical": "unknown",
+          "title": "Triangle Tube Smart 60 270,000 BTU Indirect Fired Water Heater - SMART60"
+        },
+        {
+          "sku": "SMART80",
+          "electrical": "unknown",
+          "title": "Triangle Tube Smart 80 300,000 BTU Indirect Fired Water Heater - SMART80"
+        },
+        {
+          "sku": "SMART100",
+          "electrical": "unknown",
+          "title": "Triangle Tube Smart 100 337,000 BTU Indirect Fired Water Heater - SMART100"
+        },
+        {
+          "sku": "SMART120",
+          "electrical": "unknown",
+          "title": "Triangle Tube Smart 120 420,000 BTU Indirect Fired Water Heater - SMART120"
+        },
+        {
+          "sku": "PA80",
+          "electrical": "120V, 60Hz",
+          "title": "Triangle Tube Prestige Solo 64,000 BTU Condensing Gas Water Boiler - PA80"
+        },
+        {
+          "sku": "PA110",
+          "electrical": "120V, 60Hz",
+          "title": "Triangle Tube Prestige Solo 89,000 BTU Condensing Gas Water Boiler - PA110"
+        },
+        {
+          "sku": "PEA110",
+          "electrical": "120V, 60Hz",
+          "title": "Triangle Tube Prestige Excellence 110 86,000 BTU Condensing Gas Combi Water Boiler with Indirect Water Heater - PEA110"
+        },
+        {
+          "sku": "PA155",
+          "electrical": "120V, 60Hz",
+          "title": "Triangle Tube Prestige Solo 123,000 BTU Condensing Gas Water Boiler - PA155"
+        },
+        {
+          "sku": "PA175",
+          "electrical": "120V, 60Hz",
+          "title": "Triangle Tube Prestige Solo 137,000 BTU Condensing Gas Water Boiler - PA175"
+        },
+        {
+          "sku": "PA250",
+          "electrical": "120V, 60Hz",
+          "title": "Triangle Tube Prestige Solo 197,000 BTU Condensing Gas Water Boiler - PA250"
+        },
+        {
+          "sku": "PA299",
+          "electrical": "120V, 60Hz",
+          "title": "Triangle Tube Prestige Solo 242,000 BTU Condensing Gas Water Boiler - PA299"
+        },
+        {
+          "sku": "KW199",
+          "electrical": "60 Hz",
+          "title": "Triangle Tube Keystone KW 199 199,000 BTU Condensing Water Heater - KW199"
+        },
+        {
+          "sku": "HM240TC",
+          "electrical": "120V, 60Hz",
+          "title": "Triangle Tube Heatmaster Condensing Gas Combi Boiler & Domestic Water Heater, 194,000 BTU"
+        },
+        {
+          "sku": "PA399",
+          "electrical": "120V, 60Hz",
+          "title": "Triangle Tube Prestige Solo 330,000 BTU Condensing Gas Water Boiler - PA399"
+        },
+        {
+          "sku": "PT399HP",
+          "electrical": "120 Volts,60 Hz",
+          "title": "Triangle Tube Prestige Solo 399,000 BTU Output Condensing Gas Boiler With TriMax Control - PT399HP"
+        },
+        {
+          "sku": "HM399TC",
+          "electrical": "120V, 60Hz",
+          "title": "Triangle Tube Heatmaster Condensing Gas Combi Boiler & Domestic Water Heater, 300,000 BTU"
+        },
+        {
+          "sku": "KS 399",
+          "electrical": "60 Hz",
+          "title": "Triangle Tube Keystone 399,000 BTU Output Condensing Boiler - KS 399"
+        },
+        {
+          "sku": "KW 285",
+          "electrical": "60 Hz",
+          "title": "Triangle Tube Keystone KW 285 285,000 BTU Condensing Water Heater - KW 285"
+        },
+        {
+          "sku": "KW 399",
+          "electrical": "60 Hz",
+          "title": "Triangle Tube Keystone KW 399 399,000 BTU Input Condensing Water Heater - KW 399"
+        },
+        {
+          "sku": "KS 500",
+          "electrical": "60 Hz",
+          "title": "Triangle Tube Keystone 500,000 BTU Output Condensing Boiler - KS 500"
+        },
+        {
+          "sku": "KW 500",
+          "electrical": "60 Hz",
+          "title": "Triangle Tube Keystone KW 500 500,000 BTU Input Condensing Water Heater - KW 500"
+        },
+        {
+          "sku": "KS 600",
+          "electrical": "unknown",
+          "title": "Triangle Tube 572,000 BTU Output Keystone Condensing Boiler - KS 600"
+        },
+        {
+          "sku": "KW 600",
+          "electrical": "unknown",
+          "title": "Triangle Tube Keystone KW 600 600,000 BTU Input Condensing Water Heater - KW 600"
+        },
+        {
+          "sku": "KS 750",
+          "electrical": "60 Hz",
+          "title": "Triangle Tube Keystone 750,000 BTU Output Condensing Boiler - KS 750"
+        },
+        {
+          "sku": "KW 750",
+          "electrical": "unknown",
+          "title": "Triangle Tube Keystone KW 750 750,000 BTU Input Condensing Water Heater - KW 750"
+        },
+        {
+          "sku": "KS 850",
+          "electrical": "60 Hz",
+          "title": "Triangle Tube Keystone 850,000 BTU Output Condensing Boiler - KS 850"
+        },
+        {
+          "sku": "KW 850",
+          "electrical": "unknown",
+          "title": "Triangle Tube Keystone KW 850 850,000 BTU Input Condensing Water Heater - KW 850"
+        },
+        {
+          "sku": "KW1000",
+          "electrical": "unknown",
+          "title": "Triangle Tube Keystone KW 1000 1,000,000 BTU Condensing Water Heater - KW1000"
+        },
+        {
+          "sku": "KW 1200",
+          "electrical": "unknown",
+          "title": "Triangle Tube Keystone KW 1200 1,200,000 BTU Condensing Water Heater - KW 1200"
+        }
+      ]
+    }
+  ],
+  "State Water Heaters": [
+    {
+      "category": "Water Heaters and Boilers",
+      "models": [
+        {
+          "sku": "SGTS340NIHNG",
+          "electrical": "120V AC, 60Hz",
+          "title": "State Water Heaters 240P 180 BTU Series Indoor Condensing Tankless Water Heater - Natural Gas"
+        },
+        {
+          "sku": "SGTS540NIHNG",
+          "electrical": "120V AC, 60Hz",
+          "title": "State Water Heaters 540P 199 BTU Series Indoor Condensing Tankless Water Heater - Natural Gas"
+        },
+        {
+          "sku": "SGTS540PEHNG",
+          "electrical": "120V AC, 60Hz",
+          "title": "State Water Heaters 540P 199 BTU Series Outdoor Condensing Tankless Water Heater - Natural Gas"
+        },
+        {
+          "sku": "SGTS540PIHLP",
+          "electrical": "120V AC, 60Hz",
+          "title": "State Water Heaters 540P 199 BTU Series Condensing Tankless Water Heater - Propane"
+        },
+        {
+          "sku": "SGTS540PEHLP",
+          "electrical": "120V AC, 60Hz",
+          "title": "State Water Heaters 540P 199 BTU Series Outdoor Condensing Tankless Water Heater - Propane"
+        }
+      ]
+    }
+  ]
+}

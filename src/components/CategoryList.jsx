@@ -16,13 +16,14 @@ export default function CategoryList() {
 
   const filteredCategories = entries.filter((entry) =>
     entry.category.toLowerCase().includes(search.toLowerCase())
-  );
+  )
+  .sort((a, b) => a.category.localeCompare(b.category));
   const breadcrumbText = useBreadcrumbText();
 
   return (
     <div className="p-4 max-w-md mx-auto pt-6 min-h-screen w-screen">
       <div className="flex items-start gap-3 mx-auto mb-4">
-        <button onClick={() => navigate(-1)} className="hover:!bg-gray-200 !border-none !p-0 flex items-center justify-center w-10 h-10 rounded-full transition">
+        <button onClick={() => navigate('/')} className="hover:!bg-gray-200 !border-none !p-0 flex items-center justify-center w-10 h-10 rounded-full transition">
             <ArrowLeft className="w-5 h-5 text-gray-600 hover:text-gray-900" />
             </button>
         <input
