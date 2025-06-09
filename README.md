@@ -16,7 +16,7 @@ I have already created the JSON file `organized.json`, so there is no need to ru
 npm install
 npm run dev
 ```
-should be all you need to run the web app. If you want to run the script, you may have to install `selenium`, `webdriver-manager`, and `beautifulsoup` with `pip`. 
+should be all you need to run the web app, which should be located at http://localhost:5173/. If you want to run the script, you may have to install `selenium`, `webdriver-manager`, and `beautifulsoup` with `pip`. 
 
 ## Usage and Features
 
