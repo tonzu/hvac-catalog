@@ -18,7 +18,6 @@ export default function BrandCatalog() {
   
   const breadcrumbText = useBreadcrumbText();
 
-  // Function to get logo path for a brand
   const getBrandLogo = (brandName) => {
     // Convert brand name to a filename-friendly format
     const logoFileName = brandName
@@ -58,7 +57,6 @@ export default function BrandCatalog() {
       </div>
       
       <div className="flex flex-col gap-3">
-        {/* Hidden images to preload and check logo availability */}
         <div style={{ display: 'none' }}>
           {Object.keys(data).map((brand) => (
             <img

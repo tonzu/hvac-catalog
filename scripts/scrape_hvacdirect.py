@@ -70,7 +70,6 @@ def scrape_category_urls(driver, base_url, category_name):
 
 def extract_main_product_image(soup):
     """Extract the main product image URL from the product page"""
-    # Target the main image specifically based on your HTML structure
     main_image = soup.select_one(".main-image-wrapper .main-image")
     
     if main_image:
@@ -87,8 +86,7 @@ def extract_main_product_image(soup):
                 'loading' not in src.lower() and
                 'data:image' not in src.lower()):
                 return src
-    
-    # Fallback: try other common main image selectors
+            
     fallback_selectors = [
         ".fotorama__img",
         ".product.media img",
@@ -149,8 +147,8 @@ def scrape_product_details(driver, url):
     return {
         "specs": specs,
         "title": title,
-        "image": main_image,  # Single main image instead of array
-        "url": url  # Also save the product URL for reference
+        "image": main_image,  
+        "url": url  # save the product URL for reference
     }
 
 
@@ -161,7 +159,7 @@ def process_product_data(product_data, category_name, data_by_brand):
     
     specs = product_data["specs"]
     title = product_data["title"]
-    main_image = product_data.get("image")  # Single image instead of array
+    main_image = product_data.get("image")  
     product_url = product_data.get("url", "")
     
     # Build the model data
@@ -169,7 +167,7 @@ def process_product_data(product_data, category_name, data_by_brand):
         "sku": specs.get("sku", "unknown"),
         "electrical": specs.get("electrical", "unknown"),
         "title": title,
-        "image": main_image,  # Single main image
+        "image": main_image,  
         "product_url": product_url
     }
     
@@ -213,7 +211,7 @@ def main():
     
     # Setup Chrome driver
     chrome_options = Options()
-    # chrome_options.add_argument("--headless")  # Uncomment for headless mode
+    # add options to run headless if desired
     driver = webdriver.Chrome(options=chrome_options)
     
     try:
@@ -234,7 +232,7 @@ def main():
                     print(f"Error processing {url}: {e}")
                     continue
             
-            # Save data after each category (in case of interruption)
+            # Save data after processing each category
             save_data(data_by_brand, file_path)
             print(f"Completed scraping {category_name}")
     
@@ -243,7 +241,6 @@ def main():
     
     print(f"\nScraping completed! Final data saved to {file_path}")
     
-    # Print summary
     total_products = 0
     for brand, categories in data_by_brand.items():
         brand_total = sum(len(cat["models"]) for cat in categories)
