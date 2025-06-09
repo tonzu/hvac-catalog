@@ -2,6 +2,7 @@ from selenium import webdriver
 from bs4 import BeautifulSoup
 import time
 import json
+import os
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
@@ -17,55 +18,75 @@ def extract_field(specs, possible_keys):
                 return specs[key]
     return "unknown"
 
-chrome_options = Options()
-# chrome_options.add_argument("--headless")
 
-# Setup
-driver = webdriver.Chrome(options=chrome_options)
-# driver.get("https://hvacdirect.com/2-ton-13-4-seer2-goodman-air-conditioner-condenser-r32-glxs3bn2410.html")
-page = 1
-product_urls = []
-while True:
-    driver.get("https://hvacdirect.com/air-conditioning-systems.html"+"?p="+str(page))
-    # time.sleep(3)  # wait for JS to load
-    try:
-        WebDriverWait(driver, 5).until(
-            EC.presence_of_element_located((By.CSS_SELECTOR, ".products.wrapper"))
-        )
-    except TimeoutException:
-        break
+def load_existing_data(file_path):
+    """Load existing JSON data if file exists"""
+    if os.path.exists(file_path):
+        with open(file_path, "r") as f:
+            return json.load(f)
+    return {}
 
-    soup = BeautifulSoup(driver.page_source, "html.parser")
 
-    products = soup.select("a.product-item-link")
-    if not products:
-        break
+def save_data(data, file_path):
+    """Save data to JSON file"""
+    with open(file_path, "w") as f:
+        json.dump(data, f, indent=2)
+    print(f"JSON saved to {file_path}")
+
+
+def scrape_category_urls(driver, base_url, category_name):
+    """Scrape all product URLs from a category"""
+    page = 1
+    product_urls = []
     
-    
-    # Process products
-    for item in products:
-        product_urls.append(item["href"])
+    while True:
+        url = f"{base_url}?p={page}"
+        print(f"Scraping {category_name} - Page {page}: {url}")
+        driver.get(url)
+        
+        try:
+            WebDriverWait(driver, 5).until(
+                EC.presence_of_element_located((By.CSS_SELECTOR, ".products.wrapper"))
+            )
+        except TimeoutException:
+            print(f"No products found on page {page} for {category_name}")
+            break
 
-    page += 1
+        soup = BeautifulSoup(driver.page_source, "html.parser")
+        products = soup.select("a.product-item-link")
+        
+        if not products:
+            print(f"No more products found for {category_name}")
+            break
+        
+        for item in products:
+            product_urls.append(item["href"])
 
-print(f"Found {len(product_urls)} product URLs.")
+        page += 1
 
-# driver.quit()
-all_models = []
-data_by_brand = {}
-for url in product_urls[:100]:
+    print(f"Found {len(product_urls)} product URLs for {category_name}")
+    return product_urls
+
+
+def scrape_product_details(driver, url):
+    """Scrape details from a single product page"""
     print(f"Processing {url}")
     driver.get(url)
-    # time.sleep(3)  # wait for JS to load
-    WebDriverWait(driver, 5).until(
-        EC.presence_of_element_located((By.CLASS_NAME, "product-info-main"))
-    )
+    
+    try:
+        WebDriverWait(driver, 5).until(
+            EC.presence_of_element_located((By.CLASS_NAME, "product-info-main"))
+        )
+    except TimeoutException:
+        print(f"Failed to load product page: {url}")
+        return None
+    
     soup = BeautifulSoup(driver.page_source, 'html.parser')
-
+    
+    # Extract specifications table
     table = soup.find("table", class_="data table additional-attributes")
-    # print(table.prettify() if table else "No table found")
     specs = {}
-    title = soup.find("span", class_="base")
+    
     if table:
         for row in table.find_all("tr"):
             key = row.find("th")
@@ -75,40 +96,111 @@ for url in product_urls[:100]:
             if value is not None:
                 value = value.text.strip()
             specs[key] = value
+    
+    # Extract title
+    title_element = soup.find("span", class_="base")
+    title = title_element.text.strip() if title_element else "unknown"
+    
+    return {
+        "specs": specs,
+        "title": title
+    }
 
-    # print(specs["brand/manufacturer"], specs["sku"], specs["electrical"])
 
-    # Build the data structure
+def process_product_data(product_data, category_name, data_by_brand):
+    """Process scraped product data and add to the main data structure"""
+    if not product_data:
+        return
+    
+    specs = product_data["specs"]
+    title = product_data["title"]
+    
+    # Build the model data
     model = {
         "sku": specs.get("sku", "unknown"),
         "electrical": specs.get("electrical", "unknown"),
-        "title": title.text.strip()
+        "title": title
     }
-
+    
+    # Extract brand
     brand = extract_field(specs, ["brand", "manufacturer"])
-
-    category = "Air Conditioner"
-
-    # build organized structure
+    
+    # Add to data structure
     if brand not in data_by_brand:
         data_by_brand[brand] = []
-
-    # check if category already exists
+    
+    # Check if category already exists for this brand
     found = False
     for entry in data_by_brand[brand]:
-        if entry["category"] == category:
+        if entry["category"] == category_name:
             entry["models"].append(model)
             found = True
             break
-
+    
     if not found:
         data_by_brand[brand].append({
-            "category": category,
+            "category": category_name,
             "models": [model]
         })
 
-# Save to file
-with open("../src/data/goodman.json", "w") as f:
-    json.dump(data_by_brand, f, indent=2)
 
-print("JSON saved to src/data/organized.json")
+def main():
+    # Define categories to scrape
+    categories = {
+        "Air Conditioning Systems": "https://hvacdirect.com/air-conditioner-condensers.html",
+        "Heat Pumps": "https://hvacdirect.com/heat-pump-condensers-ac.html",
+        "Furnaces": "https://hvacdirect.com/furnaces.html",
+        "Water Heaters and Boilers": "https://hvacdirect.com/water-pools-plumbing/water-heaters-boilers.html",
+        "Air Handlers": "https://hvacdirect.com/heating/air-handlers.html",
+        # Add more categories as needed
+    }
+    
+    file_path = "../src/data/goodman.json"
+    
+    # Load existing data
+    data_by_brand = load_existing_data(file_path)
+    
+    # Setup Chrome driver
+    chrome_options = Options()
+    # chrome_options.add_argument("--headless")  # Uncomment for headless mode
+    driver = webdriver.Chrome(options=chrome_options)
+    
+    try:
+        for category_name, category_url in categories.items():
+            print(f"\n{'='*50}")
+            print(f"SCRAPING CATEGORY: {category_name}")
+            print(f"{'='*50}")
+            
+            # Get all product URLs for this category
+            product_urls = scrape_category_urls(driver, category_url, category_name)
+            
+            # Process each product (limit to first 100 for testing)
+            for url in product_urls[:100]:  # Remove [:100] to process all products
+                try:
+                    product_data = scrape_product_details(driver, url)
+                    process_product_data(product_data, category_name, data_by_brand)
+                except Exception as e:
+                    print(f"Error processing {url}: {e}")
+                    continue
+            
+            # Save data after each category (in case of interruption)
+            save_data(data_by_brand, file_path)
+            print(f"Completed scraping {category_name}")
+    
+    finally:
+        driver.quit()
+    
+    print(f"\nScraping completed! Final data saved to {file_path}")
+    
+    # Print summary
+    total_products = 0
+    for brand, categories in data_by_brand.items():
+        brand_total = sum(len(cat["models"]) for cat in categories)
+        total_products += brand_total
+        print(f"{brand}: {brand_total} products across {len(categories)} categories")
+    
+    print(f"Total products scraped: {total_products}")
+
+
+if __name__ == "__main__":
+    main()
